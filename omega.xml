@@ -1,0 +1,34 @@
+<builds>
+<build>
+<name>Diggz Xenon 2 **DEBRID ONLY**</name>
+<version>1.1</version>
+<url>https://archive.org/download/xenon-2-v-11-324-8pm/Xenon_2_v11_324_8pm.zip</url>
+<icon>https://diggz1.me/Images/x2.jpg</icon>
+<fanart>https://diggz1.me/Images/x2.jpg</fanart>
+<description>Diggz Xenon 2. DEBRID ONLY. Multiple skin options. Updated 3/24/24</description>
+</build>
+<build>
+<name>Diggz Xenon Plus **DEBRID ONLY**</name>
+<version>2.4</version>
+<url>https://archive.org/download/xenon-plus-omega-2.4-216-6pm/Xenon_Plus_Omega_2.4_216_6pm.zip</url>
+<icon>https://diggz1.me/Images/xplus.png</icon>
+<fanart>https://diggz1.me/Images/xplus.png</fanart>
+<description>Diggz Xenon Plus. DEBRID ONLY. Multiple skin options. Updated 2/16/24</description>
+</build>
+<build>
+<name>Diggz Xenon FREE</name>
+<version>2.3</version>
+<url>https://archive.org/download/xenon-free-omega-2.4-216-6pm/Xenon_FREE_Omega_2.4_216_6pm.zip</url>
+<icon>https://diggz1.me/Images/xenonfree.png</icon>
+<fanart>https://diggz1.me/Images/xenonfree.png</fanart>
+<description>Diggz Xenon FREE. Updated 2/16/24</description>
+</build>
+<build>
+<name>cg - MEC -</name>
+<version>5.4</version>
+<url>https://archive.org/download/mec.v-5.4.-omega/MEC.v5.4.Omega.zip</url>
+<icon>https://diggz1.me/Images/MEC.Small.png</icon>
+<fanart>https://diggz1.me/Images/MEC.jpg</fanart>
+<description>MEC - Debrid and Free. 18-Mar-2024</description>
+</build>
+</builds>
