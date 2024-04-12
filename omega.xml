@@ -1,4 +1,14 @@
 <builds>
+  
+<build>
+<name>Diggz Xenon **DEBRID ONLY**</name>
+<version>3.0</version>
+<url>https://archive.org/download/xenon-2-v-11-324-8pm/Xenon_2_v11_324_8pm.zip</url>
+<icon>https://diggz1.me/Images/xenon.png</icon>
+<fanart>https://diggz1.me/Images/xenon.png</fanart>
+<description>Diggz Xenon Standalone. DEBRID ONLY. Updated 4/11/24</description>
+</build>
+  
 <build>
 <name>Diggz Xenon 2 **DEBRID ONLY**</name>
 <version>1.1</version>
