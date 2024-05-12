@@ -1,6 +1,15 @@
 <builds>
 
 <build>
+<name>Diggz Xenon PLUS AIO **DEBRID ONLY**</name>
+<version>21</version>
+<url>https://archive.org/download/xenon-plus-omega-v-21-512-2am/Xenon_Plus_Omega_v21_512_2am.zip</url>
+<icon>https://diggz1.me/Images/xplus.png</icon>
+<fanart>https://diggz1.me/Images/xplus.png</fanart>
+<description>Diggz Xenon Plus AIO. All Diggz Builds in one. Updated 5/12/24</description>
+</build>   
+
+<build>
 <name>Diggz Xenon FREE</name>
 <version>3.0</version>
 <url>https://archive.org/download/xenon-free-3.0-412-7pm/Xenon_Free_3.0_412_7pm.zip</url>
@@ -8,24 +17,6 @@
 <fanart>https://diggz1.me/Images/xenonfree.png</fanart>
 <description>Diggz Xenon FREE. Updated 4/12/24</description>
 </build> 
-  
-<build>
-<name>Diggz Xenon **DEBRID ONLY**</name>
-<version>3.0</version>
-<url>https://archive.org/download/diggz-xenon-v-3.0-411-1030pm/Diggz_Xenon_v3.0_411_1030pm.zip</url>
-<icon>https://diggz1.me/Images/xenon.png</icon>
-<fanart>https://diggz1.me/Images/xenon.png</fanart>
-<description>Diggz Xenon Standalone. DEBRID ONLY. Updated 4/11/24</description>
-</build>
-  
-<build>
-<name>Diggz Xenon 2 **DEBRID ONLY**</name>
-<version>1.1</version>
-<url>https://archive.org/download/xenon-2-v-11-324-8pm/Xenon_2_v11_324_8pm.zip</url>
-<icon>https://diggz1.me/Images/x2.jpg</icon>
-<fanart>https://diggz1.me/Images/x2.jpg</fanart>
-<description>Diggz Xenon 2. DEBRID ONLY. Multiple skin options. Updated 3/24/24</description>
-</build>  
 
 <build>
 <name>cg - MEC -</name>
