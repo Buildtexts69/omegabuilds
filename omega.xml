@@ -20,10 +20,10 @@
 
 <build>
 <name>cg - MEC -</name>
-<version>5.4</version>
-<url>https://archive.org/download/mec.v-5.4.-omega/MEC.v5.4.Omega.zip</url>
+<version>5.5</version>
+<url>https://archive.org/download/cg-MEC.v5.5/cg-MEC.v5.5.zip</url>
 <icon>https://diggz1.me/Images/MEC.Small.png</icon>
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
-<description>MEC - Debrid and Free. 18-Mar-2024</description>
+<description>MEC - Debrid and Free. 23-May-2024</description>
 </build>
 </builds>
