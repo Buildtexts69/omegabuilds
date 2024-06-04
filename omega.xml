@@ -19,7 +19,7 @@
 </build> 
 
 <build>
-<name>dMo -Simply Artic </name>
+<name>dMo -Simply Artic</name>
 <version>1.0</version>
 <url>https://github.com/cg00001/builds/raw/main/dMo.simply.artic.v1.0.zip</url>
 <icon>https://diggz1.me/Images/Simply.Artic.small.jpg</icon>
@@ -28,7 +28,7 @@
 </build>
   
 <build>
-<name>cg - MEC </name>
+<name>cg - MEC</name>
 <version>5.6</version>
 <url>https://github.com/cg00001/builds/raw/main/cg-MEC.v5.6.zip</url>
 <icon>https://diggz1.me/Images/MEC.Small.png</icon>
