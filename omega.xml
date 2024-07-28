@@ -2,11 +2,11 @@
 
 <build>
 <name>Diggz AIO</name>
-<version>1</version>
-<url>https://archive.org/download/diggz-aio-723-1130pm/Diggz_AIO_723_1130pm.zip</url>
+<version>1.1</version>
+<url>https://archive.org/download/diggz-aio-1.1-728-9am/Diggz_AIO_1.1_728_9am.zip</url>
 <icon>https://diggz1.me/Images/pdiggz.jpg</icon>
 <fanart>https://diggz1.me/Images/pdiggz.jpg</fanart>
-<description>Diggz AIO. All Diggz Builds in one. Updated 7/23/24</description>
+<description>Diggz AIO. All Diggz Builds in one. Updated 7/28/24</description>
 </build>     
 
 <build>
