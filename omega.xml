@@ -36,6 +36,15 @@
 <description>MEC - Debrid and Free. 15-June-2024</description>
 </build>
 
+<build>
+<name>test</name>
+<version>1</version>
+<url>https://archive.org/download/test655/test655.zip</url>
+<icon>https://diggz1.me/Images/</icon>
+<fanart>https://diggz1.me/</fanart>
+<description>Diggz</description>
+</build>   
+
 
   
 </builds>
