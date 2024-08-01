@@ -37,9 +37,9 @@
 </build>
 
 <build>
-<name>under construction</name>
+<name>under construction1</name>
 <version>1</version>
-<url>https://archive.org/download/diggz-aio-1.2-81-1230am/Diggz_AIO_1.2_81_1230am.zip</url>
+<url>https://archive.org/download/diggz-aio-1.2-81-1am/Diggz_AIO_1.2_81_1am.zip</url>
 <icon>https://diggz1.me/Images/</icon>
 <fanart>https://diggz1.me/</fanart>
 <description>Diggz</description>
