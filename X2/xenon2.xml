@@ -3,45 +3,45 @@
 <build>
 <name>[COLOR chartreuse]Xenon 2-Restore Default Setup-TMDBH[/COLOR]</name>
 <version>7/31/24</version>
-<url>https://diggz1.me/Fixes/AIO731/Xenon_2_Default_731.zip</url>
-<icon>https://diggz1.me/Fixes/x2tmdbh.png</icon>
-<fanart>https://diggz1.me/Fixes/x2tmdbh.png</fanart>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Default_731.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2tmdbh.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2tmdbh.png</fanart>
 <description>Fen Shortcuts</description>
 </build>
 
 <build>
 <name>Xenon 2- POV</name>
 <version>8/26/24</version>
-<url>https://diggz1.me/Fixes/AIO731/Xenon_2_POV_826.zip</url>
-<icon>https://diggz1.me/Fixes/x2pov.png</icon>
-<fanart>https://diggz1.me/Fixes/x2pov.png</fanart>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_POV_826.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</fanart>
 <description>-</description>
 </build>
 
 <build>
 <name>Xenon 2- Seren</name>
 <version>7/31/24</version>
-<url>https://diggz1.me/Fixes/AIO731/Xenon_2_Seren_731.zip</url>
-<icon>https://diggz1.me/Fixes/x2seren.png</icon>
-<fanart>https://diggz1.me/Fixes/x2seren.png</fanart>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Seren_731.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2seren.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2seren.png</fanart>
 <description>-</description>
 </build>
     
 <build>
 <name>Xenon 2- FEN</name>
 <version>7/31/24</version>
-<url>https://diggz1.me/Fixes/AIO731/Xenon_2_Fen_731.zip</url>
-<icon>https://diggz1.me/Fixes/x2fen.png</icon>
-<fanart>https://diggz1.me/Fixes/x2fen.png</fanart>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Fen_731.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2fen.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2fen.png</fanart>
 <description>-</description>
 </build>
 
 <build>
 <name>Xenon 2- Umbrella</name>
 <version>7/31/24</version>
-<url>https://diggz1.me/Fixes/AIO731/Xenon_2_Umbrella_731.zip</url>
-<icon>https://diggz1.me/Fixes/x2umbrella.png</icon>
-<fanart>https://diggz1.me/Fixes/x2umbrella.png</fanart>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Umbrella_731.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2umbrella.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2umbrella.png</fanart>
 <description>-</description>
 </build>
 
