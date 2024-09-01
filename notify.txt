@@ -1,17 +1,13 @@
-39
+40
 |||
 [B]Diggz Chef Wizard[/B] 
 
-[B]8/1/24[/B]
+[B]9/1/24[/B]
 
-[B][COLOR chartreuse]AIO Update v1.2
--Took a deep look at Trakt issues, did a lot of testing and tweaks to improve Trakt. Trakt watchmarks now appear almost instantly after watching. So dont F*ck with the Trakt settings, lol.
--Next-up episode options improved and adjusted for TV shows.
--Fixed random crashes for crap sticks.
--Adjusted PVR
--Added Trakt options to context menus.
--Added Multi-Weather back as default.
--Disabled "Hide Watched"
+[B][COLOR chartreuse]AIO Update v1.3
+-Swapped Fen for FEN Light all around.
+-Added POV and The Coalition Flavors in skins
+-NEW ArcticFlix build/skin update.
 -[/COLOR][/B]
 
 [B]7/22/24[/B]
