@@ -6,7 +6,7 @@
 
 [B][COLOR chartreuse]AIO Update v1.3
 -Swapped Fen for FEN Light all around.
--Added POV and The Coalition Flavors in skins
+-Added POV and The Coalition in skins
 -NEW ArcticFlix build/skin update.
 -[/COLOR][/B]
 
