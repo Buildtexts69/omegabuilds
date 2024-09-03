@@ -1,6 +1,17 @@
-40
+41
 |||
 [B]Diggz Chef Wizard[/B] 
+
+[B]9/3/24[/B]
+
+[B][COLOR chartreuse]AIO Update to v1.3[/COLOR][/B]
+-Small Update. No version change.
+-Fix Xenon Looping Robot Intro.
+-Fix missing repos.
+-Fix ArcticFlix Initializing addons when Live TV is installed.
+-Fix ArcticFlix Backgrounds.
+-Fix Install issues on some skins.
+-[/COLOR][/B]
 
 [B]9/1/24[/B]
 
