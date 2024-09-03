@@ -11,7 +11,6 @@
 -Fix ArcticFlix Initializing addons when Live TV is installed.
 -Fix ArcticFlix Backgrounds.
 -Fix Install issues on some skins.
--[/COLOR][/B]
 
 [B]9/1/24[/B]
 
