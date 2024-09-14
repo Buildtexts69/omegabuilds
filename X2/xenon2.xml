@@ -45,4 +45,13 @@
 <description>-</description>
 </build>
 
+<build>
+<name>Xenon 2- Coalition</name>
+<version>8/30/24</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Coalition_914.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2coalition.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2coalition.png</fanart>
+<description>-</description>
+</build>    
+
 </builds>
