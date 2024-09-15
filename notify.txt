@@ -1,6 +1,14 @@
-42
+43
 |||
 [B]Diggz Chef Wizard[/B] 
+
+[B]9/15/24[/B]
+
+[B][COLOR chartreuse]AIO Update to v1.4[/COLOR][/B]
+-Improve Trakt/Debrid logins.
+-Seren auto Auth.
+-Repo updated
+-Added Coalition Flavors
 
 [B]9/3/24[/B]
 
