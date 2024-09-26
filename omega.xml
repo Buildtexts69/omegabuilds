@@ -29,11 +29,11 @@
   
 <build>
 <name>cg - MEC</name>
-<version>5.9</version>
-<url>https://archive.org/download/cg.MEC.v5.9d/cg.MEC.v5.9d.zip</url>
+<version>6.0</version>
+<url>https://archive.org/download/cg.MEC.v6.0/cg.MEC.v6.0.zip</url>
 <icon>https://diggz1.me/Images/MEC.Small.png</icon>
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
-<description>MEC - Debrid and Free. 9-September-2024</description>
+<description>MEC - Debrid and Free. 26-September-2024</description>
 </build>
 
 <build>
