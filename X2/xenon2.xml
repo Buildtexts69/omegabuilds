@@ -1,9 +1,9 @@
 <builds>
     
 <build>
-<name>[COLOR chartreuse]Xenon 2-Restore Default Setup-Fen Light[/COLOR]</name>
-<version>8/30/24</version>
-<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Fen_Light_830.zip</url>
+<name>[COLOR chartreuse]Xenon 2-Fen Light[/COLOR]</name>
+<version>10/4/24</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Fen_Light_104.zip</url>
 <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2fen.png</icon>
 <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2fen.png</fanart>
 <description>Fen Shortcuts</description>
@@ -11,8 +11,8 @@
 
 <build>
 <name>Xenon 2- POV</name>
-<version>8/30/24</version>
-<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_POV_830.zip</url>
+<version>10/4/24</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_POV_104.zip</url>
 <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</icon>
 <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</fanart>
 <description>-</description>
@@ -20,8 +20,8 @@
 
 <build>
 <name>Xenon 2- Seren</name>
-<version>8/30/24</version>
-<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Seren_830.zip</url>
+<version>10/4/24</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Seren_104.zip</url>
 <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2seren.png</icon>
 <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2seren.png</fanart>
 <description>-</description>
@@ -29,8 +29,8 @@
     
 <build>
 <name>Xenon 2- TMDBH</name>
-<version>8/30/24</version>
-<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_TMDBH_830.zip</url>
+<version>10/4/24</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_TMDBH_104.zip</url>
 <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2tmdbh.png</icon>
 <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2tmdbh.png</fanart>
 <description>-</description>
@@ -38,8 +38,8 @@
 
 <build>
 <name>Xenon 2- Umbrella</name>
-<version>8/30/24</version>
-<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Umbrella_830.zip</url>
+<version>10/4/24</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Umbrella_104.zip</url>
 <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2umbrella.png</icon>
 <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2umbrella.png</fanart>
 <description>-</description>
@@ -47,8 +47,8 @@
 
 <build>
 <name>Xenon 2- Coalition</name>
-<version>8/30/24</version>
-<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Coalition_914.zip</url>
+<version>10/4/24</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Coalition_104.zip</url>
 <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2coalition.png</icon>
 <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2coalition.png</fanart>
 <description>-</description>
