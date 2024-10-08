@@ -1,6 +1,19 @@
-43
+44
 |||
 [B]Diggz Chef Wizard[/B] 
+
+[B]10/8/24[/B]
+
+[B][COLOR chartreuse]AIO Update to v1.6[/COLOR][/B]
+-PVR Fixes for CrashSticks
+-Fix Xenon Flavors losing skin Settings.
+-Added Kodi Library sources back.
+-Fix Diggz Repo link in File Manager.
+-Remove stop video on back setting.
+-Fix Xenon 2 Arcade shortcuts.
+-Fix WOD repo
+-Remove falling leaves in Xenon 2 to pevent Firesticks from burning the house down.
+
 
 [B]9/15/24[/B]
 
