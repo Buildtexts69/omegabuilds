@@ -1,6 +1,11 @@
-44
+45
 |||
 [B]Diggz Chef Wizard[/B] 
+
+[B]10/12/24[/B]
+
+[B][COLOR chartreuse]Going forward there will now be 2 seperate versions of Diggz AIO builds. Diggz AIO DEBRID, and Diggz AIO FREE with Burst[/COLOR][/B]
+
 
 [B]10/8/24[/B]
 
