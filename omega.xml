@@ -1,13 +1,22 @@
 <builds>
 
 <build>
-<name>Diggz AIO</name>
-<version>1.6</version>
-<url>https://diggz1.me/Builds/Diggz_AIO_16_108_12am.zip</url>
+<name>Diggz AIO DEBRID</name>
+<version>1.7</version>
+<url>https://diggz1.me/Builds/AIO_Debrid_v17_1012_5pm.zip</url>
 <icon>https://diggz1.me/Images/AIO2.jpg</icon>
 <fanart>https://diggz1.me/Images/AIO2.jpg</fanart>
-<description>Diggz AIO. All Diggz Builds in one. Updated 10/8/24</description>
-</build>     
+<description>All Diggz DEBRID Builds in one. Updated 10/12/24</description>
+</build> 
+
+<build>
+<name>Diggz AIO FREE Plus Burst</name>
+<version>1</version>
+<url>https://diggz1.me/Builds/AIO_Free_v1_1012_430pm.zip</url>
+<icon>https://diggz1.me/Images/AIO2.jpg</icon>
+<fanart>https://diggz1.me/Images/AIO2.jpg</fanart>
+<description>All Diggz FREE Builds in one. Updated 10/12/24</description>
+</build>   
 
 <build>
 <name>dMo - Simply Artic</name>
