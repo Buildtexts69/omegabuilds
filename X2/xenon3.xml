@@ -1,0 +1,48 @@
+<builds>
+    
+<build>
+<name>Xenon 2-Fen Light</name>
+<version>10/4/24</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Fen_Light_1226.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2fen.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2fen.png</fanart>
+<description>Fen Shortcuts</description>
+</build>
+
+<build>
+<name>Xenon 2- POV</name>
+<version>10/4/24</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_POV_1226.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</fanart>
+<description>-</description>
+</build>
+
+<build>
+<name>Xenon 2- Seren</name>
+<version>10/4/24</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Seren_1226.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2seren.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2seren.png</fanart>
+<description>-</description>
+</build>
+    
+<build>
+<name>Xenon 2- TMDBH</name>
+<version>10/4/24</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_TMDBH_1226.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2tmdbh.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2tmdbh.png</fanart>
+<description>-</description>
+</build>
+
+<build>
+<name>Xenon 2- Umbrella</name>
+<version>10/4/24</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Umbrella_1226.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2umbrella.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2umbrella.png</fanart>
+<description>-</description>
+</build>   
+
+</builds>
