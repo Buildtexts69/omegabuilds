@@ -1,10 +1,23 @@
-45
+46
 |||
 [B]Diggz Chef Wizard[/B] 
 
-[B]10/12/24[/B]
+[B]12/29/24[/B]
 
-[B][COLOR chartreuse]Going forward there will now be 2 seperate versions of Diggz AIO builds. Diggz AIO DEBRID, and Diggz AIO FREE with Burst[/COLOR][/B]
+[B][Diggz AIO Debrid v1.8][/B]
+
+Some info about the latest AIO Debrid....
+The outdated Xenon skin (Xonfluence) will no longer be maintained. But dont panic, for the last couple of months I have been working on a new Xenon skin. This new Xenon skin is somewhat based on the Xenon 2 skin(Aon-Nox Silvo). I have created an almost identical look to the original Xenon skin, so dont worry, it will be very familiar to users that liked the original Xenon skin.
+This also means the Xenon 2 skin has been removed as an option.
+The new Xenon skin has many updated and newer features that the old Xenon skin did not have.
+Some new features include:
+-Skin Shortcuts- Much easier now to edit, change, or move around home screen shortcuts/widgets.
+-New option to quickly play Trailers for movies and TV Shows. Just press UP on any Movie or TV show on the home screen and the trailer will play. Feature also is coded into almost all views while browsing in addons. Either press RIGHT, or Down (Depending on the view) to play the trailer.
+-New weather addon included-Open Meteo. Includes radar maps without API.
+-New live TV and sports addons.
+-Total rework of the Kodi PVR guide to include new live TV options.
+-Disabled addons that havent been updated to work with Debrid.
+-Many other fixes/changes...
 
 
 [B]10/8/24[/B]
