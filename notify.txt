@@ -1,6 +1,13 @@
-46
+47
 |||
 [B]Diggz Chef Wizard[/B] 
+
+[B]12/31/24[/B]
+
+[B]Xenon Skin updated[/B]
+-Fixed Favorites when not using "Slim List"
+-Fixed Power Menu/Bottom shortcuts when using "Low Main Menu"
+-Added Large Font option
 
 [B]12/29/24[/B]
 
