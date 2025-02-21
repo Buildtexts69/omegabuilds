@@ -44,16 +44,5 @@
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
 <description>MEC - Debrid and Free. 19-January-2024</description>
 </build>
-
-<build>
-<name>under construction1</name>
-<section>yes</section>
-<url>https://diggz1.me/Builds/omega.xml</url>
-<icon>http://</icon>
-<fanart>http://</fanart>
-<description>Example Section</description>
-</build>   
-
-
   
 </builds>
