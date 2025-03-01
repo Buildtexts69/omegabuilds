@@ -1,0 +1,48 @@
+<builds>
+    
+<build>
+<name>DiggzFlix-Fen Light</name>
+<version>1/21/25</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Fen_Light_121.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2fen.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2fen.png</fanart>
+<description>Fen Shortcuts</description>
+</build>
+
+<build>
+<name>DiggzFlix- POV</name>
+<version>1/21/25</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_POV_121.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</fanart>
+<description>-</description>
+</build>
+
+<build>
+<name>DiggzFlix- Seren</name>
+<version>1/21/25</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Seren_121.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2seren.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2seren.png</fanart>
+<description>-</description>
+</build>
+    
+<build>
+<name>DiggzFlix- TMDBH</name>
+<version>1/21/25</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_TMDBH_121.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2tmdbh.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2tmdbh.png</fanart>
+<description>-</description>
+</build>
+
+<build>
+<name>DiggzFlix- Umbrella</name>
+<version>1/21/25</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Umbrella_121.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2umbrella.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2umbrella.png</fanart>
+<description>-</description>
+</build>   
+
+</builds>
