@@ -2,22 +2,13 @@
 
 <build>
 <name>Diggz AIO DEBRID</name>
-<version>2.1</version>
-<url>https://diggz1.me/Builds/AIO_Debrid_v2.1_23_7pm.zip</url>
+<version>3.0</version>
+<url>https://diggz1.me/Builds/AIO_Debrid_v3_3625_2am.zip</url>
 <icon>https://diggz1.me/Images/AIO2DEBRID.jpg</icon>
 <fanart>https://diggz1.me/Images/AIO2DEBRID.jpg</fanart>
-<description>All Diggz DEBRID Builds in one. Updated 1/24/25</description>
+<description>All Diggz DEBRID Builds in one. Updated 3/6/25</description>
 <preview>https://</preview>  
-</build> 
-
-<build>
-<name>Diggz AIO FREE Plus Burst</name>
-<version>1.2</version>
-<url>https://diggz1.me/Builds/AIO_Free_v12_23_7pm.zip</url>
-<icon>https://diggz1.me/Images/AIO2FREE.jpg</icon>
-<fanart>https://diggz1.me/Images/AIO2FREE.jpg</fanart>
-<description>All Diggz FREE Builds in one. Updated 1/29/25</description>
-</build>   
+</build>  
 
 <build>
 <name>dMo - Simply Arctic</name>
