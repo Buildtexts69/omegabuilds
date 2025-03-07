@@ -8,7 +8,17 @@
 <fanart>https://diggz1.me/Images/AIO2DEBRID.jpg</fanart>
 <description>All Diggz DEBRID Builds in one. Updated 3/6/25</description>
 <preview>https://</preview>  
-</build>  
+</build>
+  
+<build>
+<name>Diggz Xenon Free</name>
+<version>1.0</version>
+<url>https://diggz1.me/Builds/Xenon_Free_v1_37_1am.zip</url>
+<icon>https://diggz1.me/Images/xenonfree.jpg</icon>
+<fanart>https://diggz1.me/Images/xenonfree.jpg</fanart>
+<description>Diggz Xenon Free. Updated 3/7/25</description>
+<preview>https://</preview>  
+</build>   
 
 <build>
 <name>dMo - Simply Arctic</name>
