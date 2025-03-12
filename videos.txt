@@ -1,6 +1,6 @@
-name="Left Right"
+name="Example"
 section="no"
-url="https://diggz1.me/Extras/Nexus/leftright.mp4"
+url="https://"
 icon="http://"
 fanart="http://"
 description="An example video."
