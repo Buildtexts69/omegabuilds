@@ -46,5 +46,14 @@
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
 <description>MEC - Debrid and Free. 19-January-2024</description>
 </build>
+
+<build>
+<name>Under Construction</name>
+<version>1</version>
+<url>https://diggz1.me/Builds/AIO.zip</url>
+<icon>https://diggz1.me/Images/MEC.Small.pn</icon>
+<fanart>https://diggz1.me/Images/MEC.jp</fanart>
+<description>Not for human consumption</description>
+</build>  
   
 </builds>
