@@ -2,12 +2,11 @@
 
 <build>
 <name>Diggz AIO DEBRID</name>
-<version>3.0</version>
-<url>https://diggz1.me/Builds/AIO_Debrid_v3_3625_2am.zip</url>
+<version>3.1</version>
+<url>https://diggz1.me/Builds/AIO_Debrid_v31_313_1am.zip</url>
 <icon>https://diggz1.me/Images/AIO2DEBRID.jpg</icon>
 <fanart>https://diggz1.me/Images/AIO2DEBRID.jpg</fanart>
-<description>All Diggz DEBRID Builds in one. Updated 3/6/25</description>
-<preview>https://</preview>  
+<description>All Diggz DEBRID Builds in one. Updated 3/13/25</description>  
 </build>
   
 <build>
@@ -16,8 +15,7 @@
 <url>https://diggz1.me/Builds/Xenon_Free_v1_37_1am.zip</url>
 <icon>https://diggz1.me/Images/xenonfree.png</icon>
 <fanart>https://diggz1.me/Images/xenonfree.png</fanart>
-<description>Diggz Xenon Free. Updated 3/7/25</description>
-<preview>https://</preview>  
+<description>Diggz Xenon Free. Updated 3/7/25</description>  
 </build>   
 
 <build>
@@ -46,14 +44,6 @@
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
 <description>MEC - Debrid and Free. 19-January-2024</description>
 </build>
-
-<build>
-<name>Under Construction</name>
-<version>1</version>
-<url>https://diggz1.me/Builds/AIO_Debrid_v31_313_1am.zip</url>
-<icon>https://diggz1.me/Images/MEC.Small.pn</icon>
-<fanart>https://diggz1.me/Images/MEC.jp</fanart>
-<description>Not for human consumption</description>
-</build>  
+ 
   
 </builds>
