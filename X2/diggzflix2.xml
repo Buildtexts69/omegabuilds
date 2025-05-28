@@ -1,0 +1,48 @@
+<builds>
+    
+<build>
+<name>DiggzFlix 2-Fen Light</name>
+<version>5/28/25</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/DiggzFlix_2_Fen_Light_528.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/diggzflix2.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/diggzflix2.png</fanart>
+<description>Fen Shortcuts</description>
+</build>
+
+<build>
+<name>DiggzFlix 2- POV</name>
+<version>5/28/25</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/DiggzFlix_2_POV_528.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/diggzflix2.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/diggzflix2.png</fanart>
+<description>-</description>
+</build>
+
+<build>
+<name>DiggzFlix 2- Seren</name>
+<version>5/28/25</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/DiggzFlix_2_Seren_528.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/diggzflix2.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/diggzflix2.png</fanart>
+<description>-</description>
+</build>
+    
+<build>
+<name>DiggzFlix 2- TMDBH</name>
+<version>5/28/25</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/DiggzFlix_2_TMDBH_528.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/diggzflix2.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/diggzflix2.png</fanart>
+<description>-</description>
+</build>
+
+<build>
+<name>DiggzFlix 2- Umbrella</name>
+<version>5/28/25</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/DiggzFlix_2_Umbrella_528.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/diggzflix2.png</icon>
+<fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/diggzflix2.png</fanart>
+<description>-</description>
+</build>   
+
+</builds>
