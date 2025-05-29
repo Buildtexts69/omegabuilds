@@ -1,82 +1,9 @@
-50
+51
 |||
-[B]CHANGELOG[/B] 
+[B]Diggz AIO Debrid-CHANGELOG[/B]
 
-[B]3/06/25[/B]
-
-[B]AIO Free builds updated to v1.2[/B]
-
-
-[B]1/5/25[/B]
-
-[B]Changed my mind[/B]
--Added back and updated original Xenon skin.
--Will continue progress on Xenon 2.
-
-[B]12/31/24[/B]
-
-[B]Xenon Skin updated[/B]
--Fixed Favorites when not using "Slim List"
--Fixed Power Menu/Bottom shortcuts when using "Low Main Menu"
--Added Large Font option
-
-[B]12/29/24[/B]
-
-[B][Diggz AIO Debrid v1.8][/B]
-
-Some info about the latest AIO Debrid....
-The outdated Xenon skin (Xonfluence) will no longer be maintained. But dont panic, for the last couple of months I have been working on a new Xenon skin. This new Xenon skin is somewhat based on the Xenon 2 skin(Aon-Nox Silvo). I have created an almost identical look to the original Xenon skin, so dont worry, it will be very familiar to users that liked the original Xenon skin.
-This also means the Xenon 2 skin has been removed as an option.
-The new Xenon skin has many updated and newer features that the old Xenon skin did not have.
-Some new features include:
--Skin Shortcuts- Much easier now to edit, change, or move around home screen shortcuts/widgets.
--New option to quickly play Trailers for movies and TV Shows. Just press UP on any Movie or TV show on the home screen and the trailer will play. Feature also is coded into almost all views while browsing in addons. Either press RIGHT, or Down (Depending on the view) to play the trailer.
--New weather addon included-Open Meteo. Includes radar maps without API.
--New live TV and sports addons.
--Total rework of the Kodi PVR guide to include new live TV options.
--Disabled addons that havent been updated to work with Debrid.
--Many other fixes/changes...
-
-
-[B]10/8/24[/B]
-
-[B][COLOR chartreuse]AIO Update to v1.6[/COLOR][/B]
--PVR Fixes for CrashSticks
--Fix Xenon Flavors losing skin Settings.
--Added Kodi Library sources back.
--Fix Diggz Repo link in File Manager.
--Remove stop video on back setting.
--Fix Xenon 2 Arcade shortcuts.
--Fix WOD repo
--Remove falling leaves in Xenon 2 to pevent Firesticks from burning the house down.
-
-
-[B]9/15/24[/B]
-
-[B][COLOR chartreuse]AIO Update to v1.4[/COLOR][/B]
--Improve Trakt/Debrid logins.
--Seren auto Auth.
--Repo updated
--Added Coalition Flavors
-
-[B]9/3/24[/B]
-
-[B][COLOR chartreuse]AIO Update to v1.3[/COLOR][/B]
--Small Update. No version change. Reinstall 1.3 if you want this update.
--Fix Xenon Looping Robot Intro.
--Fix missing repos.
--Fix ArcticFlix Initializing addons when Live TV is installed.
--Fix ArcticFlix Backgrounds.
--Fix Install issues on some skins.
-
-[B]9/1/24[/B]
-
-[B][COLOR chartreuse]AIO Update v1.3
--Swapped Fen for FEN Light all around.
--Added POV and The Coalition in skins
--NEW ArcticFlix build/skin update.
--[/COLOR][/B]
-
-[B]7/22/24[/B]
-
-[B][COLOR chartreuse]All Diggz Builds are now in Diggz AIO. Available in Chefs Wizard.[/COLOR][/B]
+[B]Version 4.0. 5/29/25[/B]
+-Fixed Live TV stuff
+-Added Fen Light Flavor to Xenon
+-Updated all skins
+-Fixed most stuff people are complaining about, lol.
