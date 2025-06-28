@@ -1,8 +1,9 @@
 
 [B]Diggz AIO Debrid-CHANGELOG[/B]
 
-[B]Version 4.0. 5/29/25[/B]
--Fixed Live TV stuff
--Added Fen Light Flavor to Xenon
--Updated all skins
--Fixed most stuff people are complaining about, lol.
+[B]Version 4.1. 6/28/25[/B]
+-Removed Trakt from Account Manager
+-Fixed Trakt asking to Re-authorize all the time
+-Fixed missing movie and tv show widgets
+-Fixed Portal Trakt issues.
+-Fixed Live TV widgets
