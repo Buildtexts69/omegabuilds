@@ -1,0 +1,9 @@
+
+[B]Diggz AIO Debrid-CHANGELOG[/B]
+
+[B]Version 4.1. 6/28/25[/B]
+-Removed Trakt from Account Manager
+-Fixed Trakt asking to Re-authorize all the time
+-Fixed missing movie and tv show widgets
+-Fixed Portal Trakt issues.
+-Fixed Live TV widgets
