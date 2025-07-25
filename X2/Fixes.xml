@@ -1,0 +1,32 @@
+<builds>
+    
+<build>
+<name>[COLOR chartreuse]*These Updates are only needed if broken or Update Available*[/COLOR]</name>
+<version>1</version>
+<url>https://diggz1.me/Fixes/PVR_FIX_153.zip</url>
+<icon>https://diggz1.me/Fixes/Quick_Fix_button.png</icon>
+<fanart>https://</fanart>
+<description>-</description>
+</build>
+    
+<build>
+<name>Fix Seren missing providers</name>
+<version>1</version>
+<url>https://diggz1.me/Fixes/Seren_providers_fix_1130.zip</url>
+<icon>https://diggz1.me/Fixes/Quick_Fix_button.png</icon>
+<fanart>https://</fanart>
+<description>-</description>
+</build>
+
+<build>
+<name>Delete All Kodi Favorites</name>
+<version>1</version>
+<url>https://diggz1.me/Fixes/Delete_Favorites.zip</url>
+<icon>https://diggz1.me/Fixes/Quick_Fix_button.png</icon>
+<fanart>https://</fanart>
+<description>-</description>
+</build>
+
+
+
+</builds>
