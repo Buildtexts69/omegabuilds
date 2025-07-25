@@ -3,7 +3,7 @@
 <build>
 <name>[COLOR chartreuse]*These Updates are only needed if broken or Update Available*[/COLOR]</name>
 <version>1</version>
-<url>https://diggz1.me/Fixes/PVR_FIX_153.zip</url>
+<url>https://diggz1.me/Fixes/PVR_FIX_153.zi</url>
 <icon>https://diggz1.me/Fixes/Quick_Fix_button.png</icon>
 <fanart>https://</fanart>
 <description>-</description>
@@ -12,8 +12,8 @@
 <build>
 <name>Setup TV Guide Mega-US-UK-Reccomended</name>
 <version>1</version>
-<url>https://diggz1.me/Fixes/PVR_Light_7_24_25.zip</url>
-<icon>https://diggz1.me/Fixes/Quick_Fix_button.png</icon>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/PVR_Light_7_24_25.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Quick_Fix_button.png</icon>
 <fanart>https://</fanart>
 <description>-</description>
 </build>    
@@ -21,8 +21,8 @@
 <build>
 <name>Setup TV Guide Mega-All Countries-High Power Devices Only</name>
 <version>1</version>
-<url>https://diggz1.me/Fixes/PVR_Full_7_24_25.zip</url>
-<icon>https://diggz1.me/Fixes/Quick_Fix_button.png</icon>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/PVR_Full_7_24_25.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Quick_Fix_button.png</icon>
 <fanart>https://</fanart>
 <description>-</description>
 </build>
@@ -30,8 +30,8 @@
 <build>
 <name>Setup TV Guide-The Loop</name>
 <version>1</version>
-<url>https://diggz1.me/Fixes/PVR_Loop_7_24_25.zip</url>
-<icon>https://diggz1.me/Fixes/Quick_Fix_button.png</icon>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/PVR_Loop_7_24_25.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Quick_Fix_button.png</icon>
 <fanart>https://</fanart>
 <description>-</description>
 </build>
@@ -39,8 +39,8 @@
 <build>
 <name>Setup TV Guide-Mad Titan</name>
 <version>1</version>
-<url>https://diggz1.me/Fixes/PVR_MT_Full_7_24_25.zip</url>
-<icon>https://diggz1.me/Fixes/Quick_Fix_button.png</icon>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/PVR_MT_Full_7_24_25.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Quick_Fix_button.png</icon>
 <fanart>https://</fanart>
 <description>-</description>
 </build>
@@ -48,8 +48,8 @@
 <build>
 <name>Setup TV Guide-Pluto-Stirr-Samsung-Plex--MUST INSTALL IPTV MERGE </name>
 <version>1</version>
-<url>https://diggz1.me/Fixes/PVR_Pluto_7_24_25.zip</url>
-<icon>https://diggz1.me/Fixes/Quick_Fix_button.png</icon>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/PVR_Pluto_7_24_25.zip</url>
+<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Quick_Fix_button.png</icon>
 <fanart>https://</fanart>
 <description>-</description>
 </build>     
