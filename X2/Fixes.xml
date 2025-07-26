@@ -10,24 +10,6 @@
 </build>
 
 <build>
-<name>Setup TV Guide Mega-US-UK-Reccomended</name>
-<version>1</version>
-<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/PVR_Light_7_24_25.zip</url>
-<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Quick_Fix_button.png</icon>
-<fanart>https://</fanart>
-<description>-</description>
-</build>    
-
-<build>
-<name>Setup TV Guide Mega-All Countries-HIGH POWER DEVICES</name>
-<version>1</version>
-<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/PVR_Full_7_24_25.zip</url>
-<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Quick_Fix_button.png</icon>
-<fanart>https://</fanart>
-<description>-</description>
-</build>
-
-<build>
 <name>Setup TV Guide-The Loop</name>
 <version>1</version>
 <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/PVR_Loop_7_24_25.zip</url>
