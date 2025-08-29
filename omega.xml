@@ -55,21 +55,21 @@
 </build>
 
 <build>
-<name>dMo - Simply Arctic</name>
-<version>1.3</version>
-<url>https://diggz1.me/Builds/Simply.Arctic.v1.3.zip</url>
-<icon>https://diggz1.me/Images/Simply.Arctic.small.jpg</icon>
-<fanart>https://diggz1.me/Images/Simply.Arctic.jpg</fanart>
-<description>Simply Arctic - Debrid only. 18-October-2024</description>
+<name>dMo - Simply Free Estuary</name>
+<version>1.0</version>
+<url>https://diggz1.me/Builds/Simply.Free.Estuary.v1.0.zip</url>
+<icon>https://diggz1.me/Images/Simply.Free.Estuary.small.jpg</icon>
+<fanart>https://diggz1.me/Images/Simply.Free.Estuary.jpg</fanart>
+<description>Simply Free Estuary - Non Debrid only. 29-August-2025</description>
 </build>
 
 <build>
-<name>dMo - Simply Arctic -Server 2</name>
-<version>1.3</version>
-<url>https://archive.org/download/simply.-arctic.v-1.3/Simply.Arctic.v1.3.zip</url>
-<icon>https://diggz1.me/Images/Simply.Arctic.small.jpg</icon>
-<fanart>https://diggz1.me/Images/Simply.Arctic.jpg</fanart>
-<description>Simply Arctic - Debrid only. 18-October-2024</description>
+<name>dMo - Simply Free Estuary -Server 2</name>
+<version>1.0</version>
+<url>https://archive.org/download/simply.-free.-estuary.v-1.0/Simply.Free.Estuary.v1.0.zip</url>
+<icon>https://diggz1.me/Images/Simply.Free.Estuary.small.jpg</icon>
+<fanart>https://diggz1.me/Images/Simply.Free.Estuary.jpg</fanart>
+<description>Simply Free Estuary - Non Debrid only. 29-August-2025</description>
 </build>
   
 <build>
