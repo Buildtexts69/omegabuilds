@@ -74,20 +74,20 @@
   
 <build>
 <name>MX Build</name>
-<version>1.0</version>
-<url>https://diggz1.me/Builds/MX.Build.v1.0.zip</url>
+<version>1.2</version>
+<url>https://diggz1.me/Builds/MX.Build.v1.2.zip</url>
 <icon>https://diggz1.me/Images/MX.Build.jpg</icon>
 <fanart>https://diggz1.me/Images/MX.Build.jpg</fanart>
-<description>MX Build - Debrid and Free. 10-August-2025</description>
+<description>MX Build - Debrid and Free. 7-September-2025</description>
 </build>
 
 <build>
 <name>MX Build -Server 2</name>
-<version>1.0</version>
-<url>https://archive.org/download/mx.-build.v-1.0/MX.Build.v1.0.zip</url>
+<version>1.2</version>
+<url>https://archive.org/download/mx.-build.v-1.2/MX.Build.v1.2.zip</url>
 <icon>https://diggz1.me/Images/MX.Build.jpg</icon>
 <fanart>https://diggz1.me/Images/MX.Build.jpg</fanart>
-<description>MX Build - Debrid and Free. 10-August-2025</description>
+<description>MX Build - Debrid and Free. 7-September-2025</description>
 </build>
   
 <build>
