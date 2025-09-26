@@ -1,7 +1,7 @@
 <builds>
 
 <build>
-<name>Diggz Xenon 4K</name>
+<name>Diggz Xenon 4K - DEBRID ONLY</name>
 <version>1.0</version>
 <url>https://diggz1.me/Builds/Xenon_4K_v1_925_130pm.zip</url>
 <icon>https://diggz1.me/Images/AIO2DEBRID.jpg</icon>
@@ -10,7 +10,7 @@
 </build>
 
 <build>
-<name>Diggz Xenon 4K -Server 2</name>
+<name>Diggz Xenon 4K - DEBRID ONLY -Server 2</name>
 <version>1.0</version>
 <url>https://archive.org/download/xenon-4-k-v-1-925-130pm/Xenon_4K_v1_925_130pm.zip</url>
 <icon>https://diggz1.me/Images/AIO2DEBRID.jpg</icon>
