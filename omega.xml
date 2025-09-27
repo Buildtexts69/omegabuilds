@@ -4,8 +4,8 @@
 <name>Diggz Xenon 4K - DEBRID ONLY</name>
 <version>1.0</version>
 <url>https://diggz1.me/Builds/Xenon_4K_v1_925_130pm.zip</url>
-<icon>https://diggz1.me/Images/AIO2DEBRID.jpg</icon>
-<fanart>https://diggz1.me/Images/AIO2DEBRID.jpg</fanart>
+<icon>https://diggz1.me/Images/xenon4k.png</icon>
+<fanart>https://diggz1.me/Images/xenon4k.png</fanart>
 <description>Diggz Xenon 4K. Updated 9/25/25</description>  
 </build>
 
@@ -13,10 +13,28 @@
 <name>Diggz Xenon 4K - DEBRID ONLY -Server 2</name>
 <version>1.0</version>
 <url>https://archive.org/download/xenon-4-k-v-1-925-130pm/Xenon_4K_v1_925_130pm.zip</url>
-<icon>https://diggz1.me/Images/AIO2DEBRID.jpg</icon>
-<fanart>https://diggz1.me/Images/AIO2DEBRID.jpg</fanart>
+<icon>https://diggz1.me/Images/xenon4k.png</icon>
+<fanart>https://diggz1.me/Images/xenon4k.png</fanart>
 <description>Diggz Xenon 4K. Updated 9/25/25</description>  
-</build>  
+</build>
+
+<build>
+<name>Diggz Xenon FREE</name>
+<version>3.0</version>
+<url>https://diggz1.me/Builds/Xenon_Free_v1_37_1am.zip</url>
+<icon>https://diggz1.me/Images/xenonfree.png</icon>
+<fanart>https://diggz1.me/Images/xenonfree.png</fanart>
+<description>Diggz Xenon FREE. Updated 9/27/25</description>  
+</build>
+
+<build>
+<name>Diggz Xenon FREE -Server 2</name>
+<version>3.0</version>
+<url>https://archive.org/download/xenon-free-v-3-927-1230pm/Xenon_Free_v3_927_1230pm.zip</url>
+<icon>https://diggz1.me/Images/xenonfree.png</icon>
+<fanart>https://diggz1.me/Images/xenonfree.png</fanart>
+<description>Diggz Xenon FREE. Updated 9/27/25</description>  
+</build> 
 
 <build>
 <name>dMo - Simply Umbrestuary</name>
