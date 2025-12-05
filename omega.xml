@@ -2,20 +2,20 @@
 
 <build>
 <name>Diggz Xenon 4K - DEBRID ONLY</name>
-<version>1.3</version>
-<url>https://diggz1.me/Builds/Xenon_4K_v1.3_1128_5pm.zip</url>
+<version>1.4</version>
+<url>https://diggz1.me/Builds/Xenon_4K_v1.4_1205_1pm.zip</url>
 <icon>https://diggz1.me/Images/xenon4k.png</icon>
 <fanart>https://diggz1.me/Images/xenon4k.png</fanart>
-<description>Diggz Xenon 4K-AIO. Updated 11/28/25</description>  
+<description>Diggz Xenon 4K-AIO. Updated 12/5/25</description>  
 </build>
 
 <build>
 <name>Diggz Xenon 4K - DEBRID ONLY -Server 2</name>
-<version>1.3</version>
-<url>https://archive.org/download/xenon-4-k-v-1.3-1128-5pm_202511/Xenon_4K_v1.3_1128_5pm.zip</url>
+<version>1.4</version>
+<url>https://archive.org/download/xenon-4-k-v-1.4-1205-1pm/Xenon_4K_v1.4_1205_1pm.zip</url>
 <icon>https://diggz1.me/Images/xenon4k.png</icon>
 <fanart>https://diggz1.me/Images/xenon4k.png</fanart>
-<description>Diggz Xenon 4K-AIO. Updated 11/28/25</description>  
+<description>Diggz Xenon 4K-AIO. Updated 12/5/25</description>  
 </build>
 
 <build>
