@@ -1,7 +1,7 @@
 <builds>
 
 <build>
-<name>Diggz Xenon 4K - DEBRID ONLY</name>
+<name>OFFLINE-Diggz Xenon 4K - DEBRID ONLY</name>
 <version>1.5</version>
 <url>https://diggz1.me/Builds/Xenon_4K_v1.5_17_10pm.zip</url>
 <icon>https://diggz1.me/Images/xenon4k.png</icon>
@@ -10,27 +10,27 @@
 </build>
 
 <build>
-<name>Diggz Xenon 4K - DEBRID ONLY -Server 2</name>
+<name>OFFLINE-Diggz Xenon 4K - DEBRID ONLY -Server 2</name>
 <version>1.5</version>
-<url>https://archive.org/download/xenon-4-k-v-1.5-17-10pm/Xenon_4K_v1.5_17_10pm.zip</url>
+<url>https://archive.org/download/xenon-4-k-v-1.5-17-10pm/Xenon_4K_v1.5_17_10pm.zi</url>
 <icon>https://diggz1.me/Images/xenon4k.png</icon>
 <fanart>https://diggz1.me/Images/xenon4k.png</fanart>
 <description>Diggz Xenon 4K-AIO. Updated 1/7/26</description>  
 </build>
 
 <build>
-<name>Diggz Xenon FREE</name>
+<name>OFFLINE-Diggz Xenon FREE</name>
 <version>4</version>
-<url>https://diggz1.me/Builds/Xenon_Free_v4_115_1030pm.zip</url>
+<url>https://diggz1.me/Builds/Xenon_Free_v4_115_1030pm.zi</url>
 <icon>https://diggz1.me/Images/xenonfree.png</icon>
 <fanart>https://diggz1.me/Images/xenonfree.png</fanart>
 <description>Diggz Xenon FREE. Updated 11/5/25</description>  
 </build>
 
 <build>
-<name>Diggz Xenon FREE -Server 2</name>
+<name>OFFLINE-Diggz Xenon FREE -Server 2</name>
 <version>4</version>
-<url>https://archive.org/download/xenon-free-v-4-115-1030pm/Xenon_Free_v4_115_1030pm.zip</url>
+<url>https://archive.org/download/xenon-free-v-4-115-1030pm/Xenon_Free_v4_115_1030pm.zi</url>
 <icon>https://diggz1.me/Images/xenonfree.png</icon>
 <fanart>https://diggz1.me/Images/xenonfree.png</fanart>
 <description>Diggz Xenon FREE. Updated 11/5/25</description>  
