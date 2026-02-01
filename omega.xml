@@ -92,20 +92,20 @@
   
 <build>
 <name>cg - MEC</name>
-<version>7.0</version>
-<url>https://diggz1.me/Builds/cg.MEC.v7.0.zip</url>
+<version>7.1</version>
+<url>https://diggz1.me/Builds/cg.MEC.v7.1.zip</url>
 <icon>https://diggz1.me/Images/MEC.Small.png</icon>
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
-<description>MEC - Debrid and Free. 17-October-2025</description>
+<description>MEC - Debrid and Free. 1-Febuary-2026</description>
 </build>
 
   <build>
 <name>cg - MEC -Server 2</name>
-<version>7.0</version>
-<url>https://archive.org/download/cg.MEC.v7.0/cg.MEC.v7.0.zip</url>
+<version>7.1</version>
+<url>https://archive.org/download/cg.MEC.v7.1/cg.MEC.v7.1.zip</url>
 <icon>https://diggz1.me/Images/MEC.Small.png</icon>
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
-<description>MEC - Debrid and Free. 17-October-2025</description>
+<description>MEC - Debrid and Free. 1-Febuary-2026</description>
 </build>
   
 </builds>
