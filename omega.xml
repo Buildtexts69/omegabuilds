@@ -19,21 +19,21 @@
 </build>
 
 <build>
-<name>Diggz Xenon FREE -DISABLED/name>
-<version>1</version>
-<url>https://diggz1.me/Builds/Xenon_ES_FREE_v1_129_1130pm.zi</url>
+<name>Diggz Xenon FREE</name>
+<version>6</version>
+<url>https://diggz1.me/Builds/Xenon_FREE_v6_21_130pm.zip</url>
 <icon>https://diggz1.me/Images/xenonfree.png</icon>
 <fanart>https://diggz1.me/Images/xenonfree.png</fanart>
-<description>Diggz Xenon FREE. Updated 1/29/25</description>  
+<description>Diggz Xenon FREE. Updated 2/1/25</description>  
 </build>
 
 <build>
-<name>Diggz Xenon FREE -VPN -DISABLED-Server 2</name>
-<version>1</version>
-<url>https://archive.org/download/xenon-es-free-v-1-129-1130pm/Xenon_ES_FREE_v1_129_1130pm.zi</url>
+<name>Diggz Xenon FREE - Server 2</name>
+<version>6</version>
+<url>https://archive.org/download/xenon-free-v-6-21-130pm/Xenon_FREE_v6_21_130pm.zip</url>
 <icon>https://diggz1.me/Images/xenonfree.png</icon>
 <fanart>https://diggz1.me/Images/xenonfree.png</fanart>
-<description>Diggz Xenon FREE. Updated 1/29/25</description>  
+<description>Diggz Xenon FREE. Updated 2/2/25</description>  
 </build> 
 
 <build>
