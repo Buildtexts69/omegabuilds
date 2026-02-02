@@ -37,41 +37,23 @@
 </build> 
 
 <build>
-<name>dMo - Simply Umbrestuary</name>
+<name>dMo - Simply Estuary</name>
 <version>1.0</version>
-<url>https://diggz1.me/Builds/dMo.Simply.Umbrestuary.v1.0a.zip</url>
-<icon>https://diggz1.me/Images/dMo.Simply.Umbrestuary.small.jpg</icon>
-<fanart>https://diggz1.me/Images/dMo.Simply.Umbrestuary.jpg</fanart>
-<description>Simply Arctic - Debrid only. 5-August-2025</description>
+<url>https://diggz1.me/Builds/dMo.Simply.Estuary.v1.0.zip</url>
+<icon>https://diggz1.me/Images/SimplyEstuaryIcon.png</icon>
+<fanart>https://diggz1.me/Images/SimplyEstuaryBanner.png</fanart>
+<description>Simply Arctic - Debrid only. 2-February-2026</description>
 </build>
 
 <build>
-<name>dMo - Simply Umbrestuary -Server 2</name>
+<name>dMo - Simply Estuary -Server 2</name>
 <version>1.0</version>
-<url>https://archive.org/download/dMo.Simply.Umbrestuary.v1.0a/dMo.Simply.Umbrestuary.v1.0a.zip</url>
-<icon>https://diggz1.me/Images/dMo.Simply.Umbrestuary.small.jpg</icon>
-<fanart>https://diggz1.me/Images/dMo.Simply.Umbrestuary.jpg</fanart>
-<description>Simply Arctic - Debrid only. 5-August-2025</description>
+<url>https://archive.org/download/dMo.Simply.Estuary.v1.0/dMo.Simply.Estuary.v1.0.zip</url>
+<icon>https://diggz1.me/Images/SimplyEstuaryIcon.png</icon>
+<fanart>https://diggz1.me/Images/SimplyEstuaryBanner.png</fanart>
+<description>Simply Arctic - Debrid only. 2-February-2026</description>
 </build>
 
-<build>
-<name>dMo - Simply Free Estuary</name>
-<version>1.0</version>
-<url>https://diggz1.me/Builds/Simply.Free.Estuary.v1.0a.zip</url>
-<icon>https://diggz1.me/Images/Simply.Free.Estuary.small.jpg</icon>
-<fanart>https://diggz1.me/Images/Simply.Free.Estuary.jpg</fanart>
-<description>Simply Free Estuary - Non Debrid only. 29-August-2025</description>
-</build>
-
-<build>
-<name>dMo - Simply Free Estuary -Server 2</name>
-<version>1.0</version>
-<url>https://archive.org/download/simply.-free.-estuary.v-1.0a/Simply.Free.Estuary.v1.0a.zip</url>
-<icon>https://diggz1.me/Images/Simply.Free.Estuary.small.jpg</icon>
-<fanart>https://diggz1.me/Images/Simply.Free.Estuary.jpg</fanart>
-<description>Simply Free Estuary - Non Debrid only. 29-August-2025</description>
-</build>
-  
 <build>
 <name>MX Build</name>
 <version>1.6</version>
@@ -96,7 +78,7 @@
 <url>https://diggz1.me/Builds/cg.MEC.v7.1.zip</url>
 <icon>https://diggz1.me/Images/MEC.Small.png</icon>
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
-<description>MEC - Debrid and Free. 1-Febuary-2026</description>
+<description>MEC - Debrid and Free. 1-February-2026</description>
 </build>
 
   <build>
@@ -105,7 +87,7 @@
 <url>https://archive.org/download/cg.MEC.v7.1/cg.MEC.v7.1.zip</url>
 <icon>https://diggz1.me/Images/MEC.Small.png</icon>
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
-<description>MEC - Debrid and Free. 1-Febuary-2026</description>
+<description>MEC - Debrid and Free. 1-February-2026</description>
 </build>
   
 </builds>
