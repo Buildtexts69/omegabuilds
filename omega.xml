@@ -93,7 +93,7 @@
 <build>
 <name>hmm</name>
 <version>1</version>
-<url>hhttps://archive.org/download/22-updater/22_updater.zip</url>
+<url>https://archive.org/download/22-updater/22_updater.zip</url>
 <icon>https://diggz1.me/Images/22.jpg</icon>
 <fanart>https://diggz1.me/Images/22.jpg</fanart>
 <description>Kodi 22 Updater</description>
