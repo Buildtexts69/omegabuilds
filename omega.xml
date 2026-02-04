@@ -89,14 +89,5 @@
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
 <description>MEC - Debrid and Free. 1-February-2026</description>
 </build>
-
-<build>
-<name>Android Kodi 22 Updater</name>
-<version>1</version>
-<url>https://archive.org/download/22-updater/22_updater.zip</url>
-<icon>https://diggz1.me/Images/22.jpg</icon>
-<fanart>https://diggz1.me/Images/22.jpg</fanart>
-<description>Update to Kodi 22 and Install a build</description>
-</build>
   
 </builds>
