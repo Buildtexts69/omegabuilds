@@ -81,13 +81,22 @@
 <description>MEC - Debrid and Free. 1-February-2026</description>
 </build>
 
-  <build>
+<build>
 <name>cg - MEC -Server 2</name>
 <version>7.1</version>
 <url>https://archive.org/download/cg.MEC.v7.1/cg.MEC.v7.1.zip</url>
 <icon>https://diggz1.me/Images/MEC.Small.png</icon>
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
 <description>MEC - Debrid and Free. 1-February-2026</description>
+</build>
+
+<build>
+<name>hmm</name>
+<version>1</version>
+<url>hhttps://archive.org/download/22-updater/22_updater.zip</url>
+<icon>https://diggz1.me/Images/22.jpg</icon>
+<fanart>https://diggz1.me/Images/22.jpg</fanart>
+<description>Kodi 22 Updater</description>
 </build>
   
 </builds>
