@@ -1,7 +1,7 @@
 <builds>
     
 <build>
-<name>Update Xenon Live To Latest</name>
+<name>Update Xenon Live To</name>
 <version>[B][COLOR chartreuse]2/15/26[/COLOR][/B]</version>
 <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_Live_Updater_215.zip</url>
 <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonlive.png</icon>
@@ -10,6 +10,7 @@
 </build> 
 
 </builds>
+
 
 
 
