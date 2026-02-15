@@ -1,15 +1,16 @@
 <builds>
     
 <build>
-<name>Xenon Live Updater</name>
-<version>2/13/26</version>
-<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_Live_Updater_213.1.zip</url>
+<name>Xenon Live Updater-Fix PVR Guides-Fix TVapp shortcut</name>
+<version>2/15/26</version>
+<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_Live_Updater_215.zip</url>
 <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonlive.png</icon>
 <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonlive.png</fanart>
 <description>Update Xenon Live</description>
 </build> 
 
 </builds>
+
 
 
 
