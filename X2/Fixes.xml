@@ -7,34 +7,7 @@
 <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Quick_Fix_button.png</icon>
 <fanart>https://</fanart>
 <description>-</description>
-</build>
-
-<build>
-<name>Setup TV Guide-The Loop</name>
-<version>1</version>
-<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/PVR_Loop_7_24_25.zip</url>
-<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Quick_Fix_button.png</icon>
-<fanart>https://</fanart>
-<description>-</description>
-</build>
-
-<build>
-<name>Setup TV Guide-Mad Titan</name>
-<version>1</version>
-<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/PVR_MT_Full_7_24_25.zip</url>
-<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Quick_Fix_button.png</icon>
-<fanart>https://</fanart>
-<description>-</description>
-</build>
-
-<build>
-<name>Setup TV Guide-Pluto-Stirr-Samsung-Plex--MUST INSTALL IPTV MERGE </name>
-<version>1</version>
-<url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/PVR_Pluto_7_24_25.zip</url>
-<icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Quick_Fix_button.png</icon>
-<fanart>https://</fanart>
-<description>-</description>
-</build>     
+</build>    
     
 <build>
 <name>Fix Seren missing providers</name>
