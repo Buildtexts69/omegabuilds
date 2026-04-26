@@ -1,6 +1,6 @@
 <builds>
 <build>
-<name>Eminence-FREE-</name>
+<name>Eminence-FREE</name>
 <version>4/25/26</version>
 <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Eminence_FREE_425.zip</url>
 <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/fentastic.png</icon>
@@ -9,7 +9,7 @@
 </build>
     
 <build>
-<name>Eminence-DEBRID-</name>
+<name>Eminence-DEBRID</name>
 <version>4/25/26</version>
 <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Eminence_Debrid_425.zip</url>
 <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/fentastic.png</icon>
@@ -18,7 +18,7 @@
 </build>
 
 <build>
-<name>Fentastic-DEBRID-</name>
+<name>Fentastic-DEBRID</name>
 <version>4/25/26</version>
 <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Eminence_Fen.zip</url>
 <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/fentastic.png</icon>
