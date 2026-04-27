@@ -3,25 +3,25 @@
         <build>
             <name>Xenon FREE</name>
             <version>4/29/26</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_FREE_425.zip</url>
-            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2free.png</icon>
-            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2free.png</fanart>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_FREE_429.zip</url>
+            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfree.png</icon>
+            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfree.png</fanart>
             <description>Xenon 2-FREE Version</description>
         </build>
         <build>
             <name>Xenon FULL - (DEBRID ONLY)</name>
             <version>4/29/26</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Fen_Light_425.zip</url>
-            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2fen.png</icon>
-            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2fen.png</fanart>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_FULL_429.zip</url>
+            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfull.png</icon>
+            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfull.png</fanart>
             <description>Xenon 2 With Fen Light Integration.</description>
         </build>
         <build>
             <name>Xenon Movies And TV - (DEBRID ONLY)</name>
             <version>4/29/26</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_POV_425.zip</url>
-            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</icon>
-            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</fanart>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_MTV_429.zip</url>
+            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonmtv.png</icon>
+            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonmtv.png</fanart>
             <description>Xenon 2 With POV Integration.</description>
         </build>
     </category>
