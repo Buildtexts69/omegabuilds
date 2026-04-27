@@ -5,7 +5,7 @@
             <version>4/29/26</version>
             <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_FREE_429.zip</url>
             <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfree.png</icon>
-            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfree.png</fanart>
+            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfree.pn</fanart>
             <description>Xenon 2-FREE Version</description>
         </build>
         <build>
@@ -13,7 +13,7 @@
             <version>4/29/26</version>
             <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_FULL_429.zip</url>
             <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfull.png</icon>
-            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfull.png</fanart>
+            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfull.pn</fanart>
             <description>Xenon 2 With Fen Light Integration.</description>
         </build>
         <build>
@@ -21,7 +21,7 @@
             <version>4/29/26</version>
             <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_MTV_429.zip</url>
             <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonmtv.png</icon>
-            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonmtv.png</fanart>
+            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonmtv.pn</fanart>
             <description>Xenon 2 With POV Integration.</description>
         </build>
     </category>
