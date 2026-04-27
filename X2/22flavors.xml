@@ -1,26 +1,65 @@
 <builds>
-<category id="Xenon2" name="Xenon 2 Flavors">
-  <build>
-    <name>My Touchscreen Build</name>
-    <version>1.0</version>
-    <url>https://example.com/build.zip</url>
-    <icon>https://example.com/icon.png</icon>
-    <fanart>https://example.com/fanart.jpg</fanart>
-    <description>Touchscreen-friendly build.</description>
-  </build>
-</category>
-    
-<category id="eminence" name="Eminence Flavors">
-  <build>
-    <name>My Touchscreen Build</name>
-    <version>1.0</version>
-    <url>https://example.com/build.zip</url>
-    <icon>https://example.com/icon.png</icon>
-    <fanart>https://example.com/fanart.jpg</fanart>
-    <description>Touchscreen-friendly build.</description>
-  </build>
-</category>
+    <category id="touchscreen" name="Touchscreen Builds">
+        <build>
+            <name>Touchscreen Build 1</name>
+            <version>1.0</version>
+            <url>https://example.com/builds/touchscreen-build-1.zip</url>
+            <icon>https://example.com/icons/touchscreen1.png</icon>
+            <fanart>https://example.com/fanart/touchscreen.jpg</fanart>
+            <description>A Kodi build optimized for touchscreen devices.</description>
+        </build>
 
+        <build>
+            <name>Touchscreen Build 2</name>
+            <version>1.1</version>
+            <url>https://example.com/builds/touchscreen-build-2.zip</url>
+            <icon>https://example.com/icons/touchscreen2.png</icon>
+            <fanart>https://example.com/fanart/touchscreen.jpg</fanart>
+            <description>Another touchscreen-friendly Kodi build.</description>
+        </build>
+    </category>
+
+    <category id="no-touchscreen" name="No Touchscreen Builds">
+        <build>
+            <name>No Touchscreen Build 1</name>
+            <version>2.0</version>
+            <url>https://example.com/builds/no-touchscreen-build-1.zip</url>
+            <icon>https://example.com/icons/notouch1.png</icon>
+            <fanart>https://example.com/fanart/notouch.jpg</fanart>
+            <description>A Kodi build designed for remote or keyboard navigation.</description>
+        </build>
+    </category>
+
+    <category id="android" name="Android Builds">
+        <build>
+            <name>Android Build 1</name>
+            <version>3.0</version>
+            <url>https://example.com/builds/android-build-1.zip</url>
+            <icon>https://example.com/icons/android1.png</icon>
+            <fanart>https://example.com/fanart/android.jpg</fanart>
+            <description>A Kodi build optimized for Android devices.</description>
+        </build>
+
+        <build>
+            <name>Android Build 2</name>
+            <version>3.1</version>
+            <url>https://example.com/builds/android-build-2.zip</url>
+            <icon>https://example.com/icons/android2.png</icon>
+            <fanart>https://example.com/fanart/android.jpg</fanart>
+            <description>Another Android Kodi build.</description>
+        </build>
+    </category>
+
+    <category id="windows" name="Windows Builds">
+        <build>
+            <name>Windows Build 1</name>
+            <version>4.0</version>
+            <url>https://example.com/builds/windows-build-1.zip</url>
+            <icon>https://example.com/icons/windows1.png</icon>
+            <fanart>https://example.com/fanart/windows.jpg</fanart>
+            <description>A Kodi build optimized for Windows PCs.</description>
+        </build>
+    </category>
 </builds>
 
 
