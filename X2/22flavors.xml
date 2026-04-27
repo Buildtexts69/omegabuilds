@@ -1,0 +1,28 @@
+<builds>
+<category id="Xenon2" name="Xenon 2 Flavors">
+  <build>
+    <name>My Touchscreen Build</name>
+    <version>1.0</version>
+    <url>https://example.com/build.zip</url>
+    <icon>https://example.com/icon.png</icon>
+    <fanart>https://example.com/fanart.jpg</fanart>
+    <description>Touchscreen-friendly build.</description>
+  </build>
+</category>
+    
+<category id="eminence" name="Eminence Flavors">
+  <build>
+    <name>My Touchscreen Build</name>
+    <version>1.0</version>
+    <url>https://example.com/build.zip</url>
+    <icon>https://example.com/icon.png</icon>
+    <fanart>https://example.com/fanart.jpg</fanart>
+    <description>Touchscreen-friendly build.</description>
+  </build>
+</category>
+
+</builds>
+
+
+
+
