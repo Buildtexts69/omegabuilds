@@ -1,5 +1,4 @@
 <builds>
-
     <category id="Xenon" name="Xenon Flavors">
         <build>
             <name>Xenon FREE</name>
@@ -9,7 +8,6 @@
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2free.png</fanart>
             <description>Xenon 2-FREE Version</description>
         </build>
-
         <build>
             <name>Xenon FULL - (DEBRID ONLY)</name>
             <version>4/29/26</version>
@@ -18,7 +16,6 @@
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2fen.png</fanart>
             <description>Xenon 2 With Fen Light Integration.</description>
         </build>
-
         <build>
             <name>Xenon Movies And TV - (DEBRID ONLY)</name>
             <version>4/29/26</version>
@@ -26,33 +23,6 @@
             <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</icon>
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</fanart>
             <description>Xenon 2 With POV Integration.</description>
-        </build>
-
-        <build>
-            <name>Xenon 2 Seren - (DEBRID ONLY)</name>
-            <version>4/29/26</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Seren_425.zip</url>
-            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2seren.png</icon>
-            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2seren.png</fanart>
-            <description>Xenon 2 With Seren Integration.</description>
-        </build>
-
-        <build>
-            <name>Xenon 2 TMDBH - (DEBRID ONLY)</name>
-            <version>4/29/26</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_TMDBH_425.zip</url>
-            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2tmdbh.png</icon>
-            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2tmdbh.png</fanart>
-            <description>Xenon 2 With TMDBH Integration.</description>
-        </build>
-
-        <build>
-            <name>Xenon 2 Umbrella - (DEBRID ONLY)</name>
-            <version>4/29/26</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_2_Umbrella_425.zip</url>
-            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2umbrella.png</icon>
-            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2umbrella.png</fanart>
-            <description>Xenon 2 With Umbrella Integration.</description>
         </build>
     </category>
 	
@@ -65,7 +35,6 @@
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2free.png</fanart>
             <description>Xenon 2-FREE Version</description>
         </build>
-
         <build>
             <name>Xenon 2 Fen Light - (DEBRID ONLY)</name>
             <version>4/29/26</version>
@@ -74,7 +43,6 @@
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2fen.png</fanart>
             <description>Xenon 2 With Fen Light Integration.</description>
         </build>
-
         <build>
             <name>Xenon 2 POV - (DEBRID ONLY)</name>
             <version>4/29/26</version>
@@ -83,7 +51,6 @@
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2pov.png</fanart>
             <description>Xenon 2 With POV Integration.</description>
         </build>
-
         <build>
             <name>Xenon 2 Seren - (DEBRID ONLY)</name>
             <version>4/29/26</version>
@@ -92,7 +59,6 @@
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2seren.png</fanart>
             <description>Xenon 2 With Seren Integration.</description>
         </build>
-
         <build>
             <name>Xenon 2 TMDBH - (DEBRID ONLY)</name>
             <version>4/29/26</version>
@@ -101,7 +67,6 @@
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/x2tmdbh.png</fanart>
             <description>Xenon 2 With TMDBH Integration.</description>
         </build>
-
         <build>
             <name>Xenon 2 Umbrella - (DEBRID ONLY)</name>
             <version>4/29/26</version>
@@ -121,7 +86,6 @@
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/fentastic.png</fanart>
             <description>Eminence FREE Version.</description>
         </build>
-
         <build>
             <name>Eminence - (DEBRID ONLY)</name>
             <version>4/29/26</version>
@@ -130,7 +94,6 @@
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/fentastic.png</fanart>
             <description>Eminence Debrid Version.</description>
         </build>
-
         <build>
             <name>Fentastic - (DEBRID ONLY)</name>
             <version>4/29/26</version>
@@ -140,7 +103,6 @@
             <description>Fentastic Debrid Version.</description>
         </build>
     </category>
-
     <category id="DiggzFlix" name="DiggzFlix Flavors">
         <build>
             <name>DiggzFlix TMDBH - (FREE OR DEBRID)</name>
@@ -150,7 +112,6 @@
             <fanart>https://example.com/fanart/android.jpg</fanart>
             <description>DiggzFlix With TMDBH Integration.</description>
         </build>
-
         <build>
             <name>SerenFlix - (DEBRID ONLY)</name>
             <version>4/29/26</version>
@@ -159,7 +120,6 @@
             <fanart>https://example.com/fanart/android.jpg</fanart>
             <description>DiggzFlix With Seren Integration.</description>
         </build>
-
         <build>
             <name>FenFlix - (DEBRID ONLY)</name>
             <version>4/29/26</version>
@@ -168,7 +128,6 @@
             <fanart>https://example.com/fanart/android.jpg</fanart>
             <description>DiggzFlix With Fen Light Integration.</description>
         </build>
-		
         <build>
             <name>UmbrellaFlix - (DEBRID ONLY)</name>
             <version>4/29/26</version>
