@@ -129,7 +129,7 @@
             <name>SerenFlix - (DEBRID ONLY)</name>
             <version>4/29/26</version>
             <url>https://example.com/builds/android-build-1.zip</url>
-            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/seren.jpg</icon>
+            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/seren.png</icon>
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/diggzflix2.png</fanart>
             <description>DiggzFlix With TMDBH Integration.</description>
         </build>
