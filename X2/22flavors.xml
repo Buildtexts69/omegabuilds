@@ -138,9 +138,9 @@
         </build>
     </category>
 
-    <category id="DiggzFlixtmdbh" name="DiggzFlix TMDBH">
+    <category id="DiggzFlix" name="DiggzFlix">
         <build>
-            <name>DiggzFlix TMDBH - (FREE OR DEBRID)</name>
+            <name>DiggzFlix - (FREE OR DEBRID)</name>
             <version>4/29/26</version>
             <url>https://example.com/builds/android-build-1.zip</url>
             <icon>https://example.com/icons/android1.png</icon>
@@ -148,7 +148,56 @@
             <description>DiggzFlix With TMDBH Integration.</description>
         </build>
     </category>
-
+    <category id="FenFlix" name="FenFlix">
+        <build>
+            <name>FenFlix - (DEBRID ONLY)</name>
+            <version>4/29/26</version>
+            <url>https://example.com/builds/android-build-1.zip</url>
+            <icon>https://example.com/icons/android1.png</icon>
+            <fanart>https://example.com/fanart/android.jpg</fanart>
+            <description>DiggzFlix With TMDBH Integration.</description>
+        </build>
+    </category>
+	    <category id="SerenFlix" name="SerenFlix">
+        <build>
+            <name>SerenFlix - (DEBRID ONLY)</name>
+            <version>4/29/26</version>
+            <url>https://example.com/builds/android-build-1.zip</url>
+            <icon>https://example.com/icons/android1.png</icon>
+            <fanart>https://example.com/fanart/android.jpg</fanart>
+            <description>DiggzFlix With TMDBH Integration.</description>
+        </build>
+    </category>
+	    <category id="POVFLIX" name="POVFLIX">
+        <build>
+            <name>POVFLIX - (DEBRID ONLY)</name>
+            <version>4/29/26</version>
+            <url>https://example.com/builds/android-build-1.zip</url>
+            <icon>https://example.com/icons/android1.png</icon>
+            <fanart>https://example.com/fanart/android.jpg</fanart>
+            <description>DiggzFlix With TMDBH Integration.</description>
+        </build>
+    </category>
+		    <category id="UmbrellaFlix" name="UmbrellaFlix">
+        <build>
+            <name>UmbrellaFlix  - (DEBRID ONLY)</name>
+            <version>4/29/26</version>
+            <url>https://example.com/builds/android-build-1.zip</url>
+            <icon>https://example.com/icons/android1.png</icon>
+            <fanart>https://example.com/fanart/android.jpg</fanart>
+            <description>DiggzFlix With TMDBH Integration.</description>
+        </build>
+    </category>
+		    <category id="SaltsFlix" name="SaltsFlix">
+        <build>
+            <name>SaltsFlix - (DEBRID ONLY)</name>
+            <version>4/29/26</version>
+            <url>https://example.com/builds/android-build-1.zip</url>
+            <icon>https://example.com/icons/android1.png</icon>
+            <fanart>https://example.com/fanart/android.jpg</fanart>
+            <description>DiggzFlix With TMDBH Integration.</description>
+        </build>
+    </category>
 </builds>
 
 
