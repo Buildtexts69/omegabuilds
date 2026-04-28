@@ -138,6 +138,17 @@
         </build>
     </category>
 
+    <category id="DiggzFlixtmdbh" name="DiggzFlix TMDBH">
+        <build>
+            <name>DiggzFlix TMDBH - (FREE OR DEBRID)</name>
+            <version>4/29/26</version>
+            <url>https://example.com/builds/android-build-1.zip</url>
+            <icon>https://example.com/icons/android1.png</icon>
+            <fanart>https://example.com/fanart/android.jpg</fanart>
+            <description>DiggzFlix With TMDBH Integration.</description>
+        </build>
+    </category>
+
 </builds>
 
 
