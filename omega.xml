@@ -1,7 +1,7 @@
 <builds>
   
 <build>
-<name>-RETIRED- Diggz Xenon - DEBRID ONLY</name>
+<name>Diggz Xenon-RETIRED- Moving to Kodi 22 shortly-</name>
 <version>1</version>
 <url>https://diggz1.me/Builds/Diggz_Xenon_v1_213_830pm.zi</url>
 <icon>https://diggz1.me/Images/diggzxenon.png</icon>
@@ -10,31 +10,13 @@
 </build>
 
 <build>
-<name>-RETIRED- Diggz Xenon - DEBRID ONLY - Server 2</name>
-<version>1</version>
-<url>https://archive.org/download/diggz-xenon-v-1-213-830pm/Diggz_Xenon_v1_213_830pm.zi</url>
-<icon>https://diggz1.me/Images/diggzxenon.png</icon>
-<fanart>https://diggz1.me/Images/diggzxenon.png</fanart>
-<description>Diggz Xenon. Updated 2/13/26</description>  
-</build>
-
-<build>
-<name>-RETIRED- Diggz Xenon FREE</name>
+<name>Diggz Xenon FREE-RETIRED- Moving to Kodi 22 shortly-</name>
 <version>6</version>
 <url>https://diggz1.me/Builds/Xenon_FREE_v6_21_2pm.zi</url>
 <icon>https://diggz1.me/Images/xenonfree.png</icon>
 <fanart>https://diggz1.me/Images/xenonfree.png</fanart>
 <description>Diggz Xenon FREE. Updated 2/1/25</description>  
 </build>
-
-<build>
-<name>-RETIRED- Diggz Xenon FREE - Server 2</name>
-<version>6</version>
-<url>https://archive.org/download/xenon-free-v-6-21-2pm/Xenon_FREE_v6_21_2pm.zi</url>
-<icon>https://diggz1.me/Images/xenonfree.png</icon>
-<fanart>https://diggz1.me/Images/xenonfree.png</fanart>
-<description>Diggz Xenon FREE. Updated 2/2/25</description>  
-</build> 
 
 <build>
 <name>dMo - Simply Estuary</name>
