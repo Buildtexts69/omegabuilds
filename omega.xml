@@ -9,6 +9,16 @@
 <fanart>https://diggz1.me/Images/diggzxenon.png</fanart>
 <description>Diggz AIO. Updated 5/2/26</description>  
 </build>
+
+<build>
+<name>Diggz AIO - FREE OR DEBRID - Server 2</name>
+<version>1</version>
+<kodi>K22</kodi>
+<url>https://archive.org/download/aio-v-1-52-730pm/AIO_v1_52_730pm.zip</url>
+<icon>https://diggz1.me/Images/diggzxenon.png</icon>
+<fanart>https://diggz1.me/Images/diggzxenon.png</fanart>
+<description>Diggz AIO. Updated 5/2/26</description>  
+</build>
   
 <build>
 <name>Diggz Xenon-RETIRED- Moving to Kodi 22 shortly-</name>
