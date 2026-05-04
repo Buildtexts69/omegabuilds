@@ -80,24 +80,24 @@
     <category id="Eminence" name="Eminence Flavors">
         <build>
             <name>Eminence - FREE</name>
-            <version>5/2/26</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Eminence_FREE_52.zip</url>
+            <version>5/4/26</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Eminence_FREE_54.zip</url>
             <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/eminence.png</icon>
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/eminence.png</fanart>
             <description>Eminence FREE Version.</description>
         </build>
         <build>
             <name>Eminence - (DEBRID ONLY)</name>
-            <version>5/2/26</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Eminence_Debrid_52.zip</url>
+            <version>5/4/26</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Eminence_Debrid_54.zip</url>
             <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/eminence.png</icon>
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/eminence.png</fanart>
             <description>Eminence Debrid Version.</description>
         </build>
         <build>
             <name>Fentastic - (DEBRID ONLY)</name>
-            <version>5/2/26</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Eminence_Fen_52.zip</url>
+            <version>5/4/26</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Eminence_Fen_54.zip</url>
             <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/fentastic.png</icon>
             <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/fentastic.png</fanart>
             <description>Fentastic Debrid Version.</description>
