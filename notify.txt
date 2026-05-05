@@ -1,14 +1,9 @@
-51
+52
 |||
 [B]Diggz Chef Wizard[/B] 
 
-[B]3/06/25[/B]
+[B]5/5/26[/B]
 
-[B]AIO Debrid updated to v3.0[/B]
+[B]New Diggz AIO Debrid And FREE now avilable for Kodi 21 And Kodi 22[/B]
 
--**NEW** DiggzFlix build using Bingie Skin.
--Removed seperate Flix builds as new DiggzFlix skin is much better.
--Removed Flavors in Xenon builds. Too much work to maintain, not enough time. TMDBH is default.
--Replaced Setup Wizard with new setup wizard to help on laggy devices. 
--Lots of live tv updates
 
