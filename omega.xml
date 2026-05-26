@@ -22,22 +22,22 @@
 
 <build>
 <name>Diggz AIO - FREE OR DEBRID</name>
-<version>2</version>
+<version>3</version>
 <kodi>K21</kodi>
-<url>http://diggz1.me/Builds/K21_AIO_v2_55_3pm.zip</url>
+<url>http://diggz1.me/Builds/21_AIO_v3_526_7pm.zip</url>
 <icon>https://diggz1.me/Images/diggzxenon.png</icon>
 <fanart>https://diggz1.me/Images/diggzxenon.png</fanart>
-<description>Diggz AIO. Updated 5/4/26</description>  
+<description>Diggz AIO. Updated 5/26/26</description>  
 </build>
 
 <build>
 <name>Diggz AIO - FREE OR DEBRID - Server 2</name>
-<version>2</version>
+<version>3</version>
 <kodi>K21</kodi>
-<url>https://archive.org/download/k-21-aio-v-2-55-3pm/K21_AIO_v2_55_3pm.zip</url>
+<url>https://archive.org/download/21-aio-v-3-526-7pm/21_AIO_v3_526_7pm.zip</url>
 <icon>https://diggz1.me/Images/diggzxenon.png</icon>
 <fanart>https://diggz1.me/Images/diggzxenon.png</fanart>
-<description>Diggz AIO. Updated 5/4/26</description>  
+<description>Diggz AIO. Updated 5/26/26</description>  
 </build>
 
 <build>
