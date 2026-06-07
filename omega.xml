@@ -99,5 +99,25 @@
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
 <description>MEC - Debrid and Free. 4-June-2026</description>
 </build>
+
+<build>
+<name>cg - MEC</name>
+<version>7.2</version>
+<kodi>K22</kodi>
+<url>https://diggz1.me/Builds/cg.MEC.v7.2a.zip</url>
+<icon>https://diggz1.me/Images/MEC.Small.png</icon>
+<fanart>https://diggz1.me/Images/MEC.jpg</fanart>
+<description>MEC - Debrid and Free. 4-June-2026</description>
+</build>
+
+<build>
+<name>cg - MEC -Server 2</name>
+<version>7.2</version>
+<kodi>K22</kodi>
+<url>https://archive.org/download/cg.MEC.v7.2a/cg.MEC.v7.2a.zip</url>
+<icon>https://diggz1.me/Images/MEC.Small.png</icon>
+<fanart>https://diggz1.me/Images/MEC.jpg</fanart>
+<description>MEC - Debrid and Free. 4-June-2026</description>
+</build>
   
 </builds>
