@@ -42,22 +42,22 @@
 
 <build>
 <name>dMo - Simply Estuary</name>
-<version>1.4</version>
+<version>1.5</version>
 <kodi>K21</kodi>
-<url>https://diggz1.me/Builds/dMo-Simply.Estuary.v1.4.zip</url>
+<url>https://diggz1.me/Builds/dMo-Simply.Estuary.v1.5.zip</url>
 <icon>https://diggz1.me/Images/SimplyEstuaryIcon.png</icon>
 <fanart>https://diggz1.me/Images/SimplyEstuaryBanner.png</fanart>
-<description>Simply Arctic - Debrid only. 8-June-2026</description>
+<description>Simply Arctic - Debrid only. 9-June-2026</description>
 </build>
 
 <build>
 <name>dMo - Simply Estuary -Server 2</name>
-<version>1.4</version>
+<version>1.5</version>
 <kodi>K21</kodi>
-<url>https://archive.org/download/dMo-Simply.Estuary.v1.4/dMo-Simply.Estuary.v1.4.zip</url>
+<url>https://archive.org/download/dMo-Simply.Estuary.v1.5/dMo-Simply.Estuary.v1.5.zip</url>
 <icon>https://diggz1.me/Images/SimplyEstuaryIcon.png</icon>
 <fanart>https://diggz1.me/Images/SimplyEstuaryBanner.png</fanart>
-<description>Simply Arctic - Debrid only. 8-June-2026</description>
+<description>Simply Arctic - Debrid only. 9-June-2026</description>
 </build>
 
 <build>
