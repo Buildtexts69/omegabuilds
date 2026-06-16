@@ -62,22 +62,22 @@
 
 <build>
 <name>MX Build</name>
-<version>1.6</version>
+<version>1.7</version>
 <kodi>K21</kodi>
-<url>https://diggz1.me/Builds/MX.Build.v1.6.zip</url>
+<url>https://diggz1.me/Builds/MX.Build.v1.7.zip</url>
 <icon>https://diggz1.me/Images/MX.Build.jpg</icon>
 <fanart>https://diggz1.me/Images/MX.Build.jpg</fanart>
-<description>MX Build - Debrid and Free. 20-November-2025</description>
+<description>MX Build - Debrid and Free. 16-June-2026</description>
 </build>
 
 <build>
 <name>MX Build -Server 2</name>
-<version>1.6</version>
+<version>1.7</version>
 <kodi>K21</kodi>
-<url>https://archive.org/download/mxbuildv-1.6a/MXBuildv1.6a.zip</url>
+<url>https://archive.org/download/mx.-build.v-1.7/MX.Build.v1.7.zip</url>
 <icon>https://diggz1.me/Images/MX.Build.jpg</icon>
 <fanart>https://diggz1.me/Images/MX.Build.jpg</fanart>
-<description>MX Build - Debrid and Free. 20-November-2025</description>
+<description>MX Build - Debrid and Free. 16-June-2026</description>
 </build>
   
 <build>
