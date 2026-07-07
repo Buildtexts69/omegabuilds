@@ -1,9 +1,16 @@
-53
+54
 |||
 [B]Diggz Chef Wizard[/B] 
 
-[B]6/15/26[/B]
+[B]7/6/26[/B]
 
-[B]PVR TV Guide and Diggz Guide Updated[/B]
+[B]Diggz AIO v3.2[/B]
+
+Sorry for another update
+Serious bug fixed with Xenon Skin
+-Fixed Random Kodi crashing while browsing addon movie sections using Android devices
+-Problem should be resolved
+-Other small fixes
+-Update only nesessary if using Xenon skin.
 
 
