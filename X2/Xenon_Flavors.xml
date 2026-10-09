@@ -9,14 +9,6 @@
             <description></description>
         </build>
         <build>
-            <name>TMDBH With MdbList - 10/10/26</name>
-            <version>1</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_TMDBH_MdbList_1010.zip</url>
-            <icon>https://</icon>
-            <fanart>https://</fanart>
-            <description></description>
-        </build>
-        <build>
             <name>Red Light With Trakt - 10/10/26</name>
             <version>1</version>
             <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_RedLight_Trakt_1010.zip</url>
