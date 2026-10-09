@@ -1,7 +1,7 @@
 <builds>
     <category id="Xenon" name="Xenon Flavors">
         <build>
-            <name>Xenon TMDBH With Trakt 10/10/26</name>
+            <name>TMDBH With Trakt - 10/10/26</name>
             <version>1</version>
             <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_TMDBH_Trakt_1010.zip</url>
             <icon>https://</icon>
@@ -9,7 +9,7 @@
             <description></description>
         </build>
         <build>
-            <name>Xenon TMDBH With MdbList 10/10/26</name>
+            <name>TMDBH With MdbList - 10/10/26</name>
             <version>1</version>
             <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_TMDBH_MdbList_1010.zip</url>
             <icon>https://</icon>
@@ -17,7 +17,7 @@
             <description></description>
         </build>
         <build>
-            <name>Xenon Red Light With Trakt 10/10/26</name>
+            <name>Red Light With Trakt - 10/10/26</name>
             <version>1</version>
             <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_RedLight_Trakt_1010.zip</url>
             <icon>https://</icon>
@@ -25,7 +25,7 @@
             <description></description>
         </build>
         <build>
-            <name>Xenon Red Light With MdbList 10/10/26</name>
+            <name>Red Light With MdbList - 10/10/26</name>
             <version>1</version>
             <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_RedLight_Mdblist_1010.zip</url>
             <icon>https://</icon>
@@ -33,7 +33,7 @@
             <description></description>
         </build>
         <build>
-            <name>Xenon Red Light With Simkl 10/10/26</name>
+            <name>Red Light With Simkl - 10/10/26</name>
             <version>1</version>
             <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_RedLight_Simkl_1010.zip</url>
             <icon>https://</icon>
@@ -41,7 +41,7 @@
             <description></description>
         </build>
         <build>
-            <name>Xenon Umbrella With Trakt 10/10/26</name>
+            <name>Umbrella With Trakt - 10/10/26</name>
             <version>1</version>
             <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_Umbrella_Trakt_1010.zip</url>
             <icon>https://</icon>
@@ -49,7 +49,7 @@
             <description></description>
         </build>
         <build>
-            <name>Xenon Umbrella With MdbList 10/10/26</name>
+            <name>Umbrella With MdbList - 10/10/26</name>
             <version>1</version>
             <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_Umbrella_MdbList_1010.zip</url>
             <icon>https://</icon>
