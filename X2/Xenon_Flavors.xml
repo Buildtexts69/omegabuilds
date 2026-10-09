@@ -1,0 +1,32 @@
+<builds>
+    <category id="Xenon" name="Xenon Flavors">
+        <build>
+            <name>Xenon FREE</name>
+            <version>7/2/26</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_FREE_72.zip</url>
+            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfree.png</icon>
+            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfree.png</fanart>
+            <description>Xenon 2-FREE Version</description>
+        </build>
+        <build>
+            <name>Xenon FULL - (DEBRID ONLY)</name>
+            <version>7/2/26</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_FULL_72.zip</url>
+            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfull.png</icon>
+            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonfull.png</fanart>
+            <description>Xenon 2 With Fen Light Integration.</description>
+        </build>
+        <build>
+            <name>Xenon Movies And TV - (DEBRID ONLY)</name>
+            <version>7/2/26</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_MTV_72.zip</url>
+            <icon>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonmtv.png</icon>
+            <fanart>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/xenonmtv.png</fanart>
+            <description>Xenon 2 With POV Integration.</description>
+        </build>
+    </category>
+</builds>
+
+
+
+
