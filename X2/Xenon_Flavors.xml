@@ -1,6 +1,15 @@
 <builds>
     <category id="Xenon" name="Xenon Flavors">
         <build>
+            <id>xenon_free_Trakt</id>
+            <name>Xenon FREE With Trakt - 10/10/26</name>
+            <version>2</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_TMDBH_Trakt_1010.zip</url>
+            <icon>https://</icon>
+            <fanart>https://</fanart>
+            <description></description>
+        </build>
+        <build>
             <id>xenon_tmdbh_trakt</id>
             <name>TMDBH With Trakt - 10/10/26</name>
             <version>2</version>
