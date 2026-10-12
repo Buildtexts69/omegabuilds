@@ -10,10 +10,10 @@
             <description></description>
         </build>
         <build>
-            <id>xenon_tmdbh_trakt</id>
+            <id>xenon_tmdbh_trakt_mdblist</id>
             <name>TMDBH With Trakt And MdbList - 10/10/26 (DEBRID)</name>
             <version>2</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_TMDBH_Trakt_1010.zip</url>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_TMDBH_Trakt_Mdblist_1010.zip</url>
             <icon>https://</icon>
             <fanart>https://</fanart>
             <description></description>
