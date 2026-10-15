@@ -1,4 +1,4 @@
-56
+57
 |||
 [B]Diggz Chef Wizard[/B] 
 
@@ -8,5 +8,6 @@
 
 OOPS- bug fixed with Xenon Skin
 -Fixed slow loading times
-
+-Update recommended
+-Will automatically save and restore your authorizations after installing
 
