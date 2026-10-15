@@ -2,63 +2,63 @@
     <category id="Xenon" name="Xenon Flavors">
         <build>
             <id>xenon_free_tmdbh_trakt_mdblist</id>
-            <name>Xenon FREE TMDBH With Trakt And MdbList - 10/10/26 (FREE)</name>
-            <version>2</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_FREE_TMDBH_Mdblist_Trakt_1010.zip</url>
+            <name>Xenon FREE TMDBH With Trakt And MdbList - 10/15/26 (FREE)</name>
+            <version>3</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_FREE_TMDBH_Mdblist_Trakt_1015.zip</url>
             <icon>https://</icon>
             <fanart>https://</fanart>
             <description></description>
         </build>
         <build>
             <id>xenon_tmdbh_trakt_mdblist</id>
-            <name>TMDBH With Trakt And MdbList - 10/10/26 (DEBRID)</name>
-            <version>2</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_TMDBH_Trakt_Mdblist_1010.zip</url>
+            <name>TMDBH With Trakt And MdbList - 10/15/26 (DEBRID)</name>
+            <version>3</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_TMDBH_Trakt_Mdblist_1015.zip</url>
             <icon>https://</icon>
             <fanart>https://</fanart>
             <description></description>
         </build>
         <build>
             <id>xenon_redlight_trakt</id>
-            <name>Red Light With Trakt - 10/10/26 (DEBRID)</name>
-            <version>2</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_RedLight_Trakt_1010.zip</url>
+            <name>Red Light With Trakt - 10/15/26 (DEBRID)</name>
+            <version>3</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_RedLight_Trakt_1015.zip</url>
             <icon>https://</icon>
             <fanart>https://</fanart>
             <description></description>
         </build>
         <build>
             <id>xenon_redlight_mdblist</id>
-            <name>Red Light With MdbList - 10/10/26 (DEBRID)</name>
-            <version>2</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_RedLight_Mdblist_1010.zip</url>
+            <name>Red Light With MdbList - 10/15/26 (DEBRID)</name>
+            <version>3</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_RedLight_Mdblist_1015.zip</url>
             <icon>https://</icon>
             <fanart>https://</fanart>
             <description></description>
         </build>
         <build>
             <id>xenon_redlight_simkl</id>
-            <name>Red Light With Simkl - 10/10/26 (DEBRID)</name>
-            <version>2</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_RedLight_Simkl_1010.zip</url>
+            <name>Red Light With Simkl - 10/15/26 (DEBRID)</name>
+            <version>3</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_RedLight_Simkl_1015.zip</url>
             <icon>https://</icon>
             <fanart>https://</fanart>
             <description></description>
         </build>
         <build>
             <id>xenon_umbrella_trakt</id>
-            <name>Umbrella With Trakt - 10/10/26 (DEBRID)</name>
-            <version>2</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_Umbrella_Trakt_1010.zip</url>
+            <name>Umbrella With Trakt - 10/15/26 (DEBRID)</name>
+            <version>3</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_Umbrella_Trakt_1015.zip</url>
             <icon>https://</icon>
             <fanart>https://</fanart>
             <description></description>
         </build>
         <build>
             <id>xenon_umbrella_mdblist</id>
-            <name>Umbrella With MdbList - 10/10/26 (DEBRID)</name>
-            <version>2</version>
-            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_Umbrella_MdbList_1010.zip</url>
+            <name>Umbrella With MdbList - 10/15/26 (DEBRID)</name>
+            <version>3</version>
+            <url>https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/X2/Xenon_Umbrella_MdbList_1015.zip</url>
             <icon>https://</icon>
             <fanart>https://</fanart>
             <description></description>
