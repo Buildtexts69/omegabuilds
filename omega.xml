@@ -11,16 +11,6 @@
 </build>
 
 <build>
-<name>New Diggz Xenon Testing</name>
-<version>5.0</version>
-<kodi>K21</kodi>
-<url>https://diggz1.me/Builds/Diggz_Xenon_v5_1027_12am.zip</url>
-<icon>https://diggz1.me/Images/diggzxenon.png</icon>
-<fanart>https://diggz1.me/Images/diggzxenon.png</fanart>
-<description>Diggz Xenon. Multiple Flavors. Updated 10/27/26</description>  
-</build>
-
-<build>
 <name>Diggz Xenon - Server 2</name>
 <version>1.5</version>
 <kodi>K21</kodi>
