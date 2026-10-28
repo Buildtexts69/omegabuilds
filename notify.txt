@@ -1,13 +1,8 @@
-57
+58
 |||
 [B]Diggz Chef Wizard[/B] 
 
-[B]10/15/26[/B]
+[B]10/27/26[/B]
 
-[B]Diggz Xenon[/B]
-
-OOPS- bug fixed with Xenon Skin
--Fixed slow loading times
--Update recommended
--Will automatically save and restore your authorizations after installing
+[B]NEW Diggz Xenon Test Build In Chefs Wizard![/B]
 
