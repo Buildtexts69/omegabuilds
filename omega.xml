@@ -22,22 +22,22 @@
 
 <build>
 <name>Diggz Xenon</name>
-<version>1.4</version>
+<version>5.1</version>
 <kodi>K22</kodi>
-<url>https://diggz1.me/Builds/Xenon22_v1.4_1015_3am.zip</url>
-<icon>https://diggz1.me/Images/diggzxenon.png</icon>
-<fanart>https://diggz1.me/Images/diggzxenon.png</fanart>
-<description>Diggz Xenon. Multiple Flavors. Updated 10/12/26</description>  
+<url>https://diggz1.me/Builds/Xenon22_v5.1_111_10am.zip</url>
+<icon>https://diggz1.me/Images/diggzxenonnew.png</icon>
+<fanart>https://diggz1.me/Images/diggzxenonnew.png</fanart>
+<description>Diggz Xenon. Multiple Flavors. Updated 11/1/26</description>  
 </build>
 
 <build>
 <name>Diggz Xenon - Server 2</name>
-<version>1.4</version>
+<version>5.1</version>
 <kodi>K22</kodi>
-<url>https://archive.org/download/xenon-22-v-1.4-1015-3am/Xenon22_v1.4_1015_3am.zip</url>
-<icon>https://diggz1.me/Images/diggzxenon.png</icon>
-<fanart>https://diggz1.me/Images/diggzxenon.png</fanart>
-<description>Diggz Xenon. Multiple Flavors. Updated 10/12/26</description>   
+<url>https://archive.org/download/xenon-22-v-5.1-111-10am/Xenon22_v5.1_111_10am.zip</url>
+<icon>https://diggz1.me/Images/diggzxenonnew.png</icon>
+<fanart>https://diggz1.me/Images/diggzxenonnew.png</fanart>
+<description>Diggz Xenon. Multiple Flavors. Updated 11/1/26</description>   
 </build>
 
 <build>
