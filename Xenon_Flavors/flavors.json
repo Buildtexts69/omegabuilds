@@ -2,24 +2,59 @@
     "schema":  1,
     "flavors":  {
                     "redlight":  {
-                                     "version":  "2026-11-14",
-                                     "url":  "https://example.com/xenon/flavors/zips/redlight-2026-11-14.zip",
-                                     "sha256":  "2c428fe52c137446dd7e198651645c28f8b139716d57c9cef7db2e258f0c4e95"
+                                     "name":  "Red Light",
+                                     "mode":  "debrid",
+                                     "always_labels":  [
+                                                           "1036",
+                                                           "24001",
+                                                           "Diggz Xenon"
+                                                       ],
+                                     "version":  "2026-11-15",
+                                     "url":  "https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/Xenon_Flavors/zips/redlight-2026-11-15.zip",
+                                     "sha256":  "44b0b6f6647334b66f37cbaa9e8bf19af0625e40e94c649b73ea1142a43de25b",
+                                     "addon":  "plugin.video.redlight",
+                                     "icon":  "special://home/addons/resource.images.skinicons.wide/resources/icons/fenlight.png"
                                  },
                     "tmdbhelper":  {
-                                       "version":  "2026-11-14",
-                                       "url":  "https://example.com/xenon/flavors/zips/tmdbhelper-2026-11-14.zip",
-                                       "sha256":  "2fee4e22e002253a7ee1ac220e8318679cbcd6a58a94108203a829b022c357bf"
+                                       "name":  "The Movie Database Helper",
+                                       "mode":  "debrid",
+                                       "always_labels":  [
+                                                             "1036",
+                                                             "24001",
+                                                             "Diggz Xenon"
+                                                         ],
+                                       "version":  "2026-11-15",
+                                       "url":  "https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/Xenon_Flavors/zips/tmdbhelper-2026-11-15.zip",
+                                       "sha256":  "91787773938cd95453ea87c67b1edc28a3c6c3016c5679eec733fc293f09410f",
+                                       "addon":  "plugin.video.themoviedb.helper",
+                                       "icon":  "special://home/addons/resource.images.skinicons.wide/resources/icons/tmdbh.png"
                                    },
                     "umbrella":  {
-                                     "version":  "2026-11-14",
-                                     "url":  "https://example.com/xenon/flavors/zips/umbrella-2026-11-14.zip",
-                                     "sha256":  "2a7b3df4833abb8c2505895798be6edc213b81f8021b8ce5f99d7e4ea3e857f4"
+                                     "name":  "Umbrella",
+                                     "mode":  "debrid",
+                                     "always_labels":  [
+                                                           "1036",
+                                                           "24001",
+                                                           "Diggz Xenon"
+                                                       ],
+                                     "version":  "2026-11-15",
+                                     "url":  "https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/Xenon_Flavors/zips/umbrella-2026-11-15.zip",
+                                     "sha256":  "5237c4aa5bffdec4b46493766528bc83667a98e64cef2232da1f1b342a3d93d6",
+                                     "addon":  "plugin.video.umbrella",
+                                     "icon":  "special://home/addons/resource.images.skinicons.wide/resources/umbrella.png"
                                  },
                     "xenonfree":  {
-                                      "version":  "2026-11-14",
-                                      "url":  "https://example.com/xenon/flavors/zips/xenonfree-2026-11-14.zip",
-                                      "sha256":  "78e216ee118b97d63b1b416b9f35bdcd0dd3c73d7ea2c09db18674931c3890a5"
+                                      "name":  "Xenon Free",
+                                      "mode":  "free",
+                                      "always_labels":  [
+                                                            "1036",
+                                                            "24001",
+                                                            "Diggz Xenon"
+                                                        ],
+                                      "version":  "2026-11-15",
+                                      "url":  "https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/Xenon_Flavors/zips/xenonfree-2026-11-15.zip",
+                                      "sha256":  "331b22dc1f41ab3542ecd891350491d1c7890d859faeae8328fa6557bb5411c7",
+                                      "icon":  "special://home/addons/resource.images.skinicons.wide/resources/free.png"
                                   }
                 }
 }
