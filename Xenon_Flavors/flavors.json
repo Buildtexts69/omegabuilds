@@ -1,0 +1,25 @@
+{
+    "schema":  1,
+    "flavors":  {
+                    "redlight":  {
+                                     "version":  "2026-11-14",
+                                     "url":  "https://example.com/xenon/flavors/zips/redlight-2026-11-14.zip",
+                                     "sha256":  "2c428fe52c137446dd7e198651645c28f8b139716d57c9cef7db2e258f0c4e95"
+                                 },
+                    "tmdbhelper":  {
+                                       "version":  "2026-11-14",
+                                       "url":  "https://example.com/xenon/flavors/zips/tmdbhelper-2026-11-14.zip",
+                                       "sha256":  "2fee4e22e002253a7ee1ac220e8318679cbcd6a58a94108203a829b022c357bf"
+                                   },
+                    "umbrella":  {
+                                     "version":  "2026-11-14",
+                                     "url":  "https://example.com/xenon/flavors/zips/umbrella-2026-11-14.zip",
+                                     "sha256":  "2a7b3df4833abb8c2505895798be6edc213b81f8021b8ce5f99d7e4ea3e857f4"
+                                 },
+                    "xenonfree":  {
+                                      "version":  "2026-11-14",
+                                      "url":  "https://example.com/xenon/flavors/zips/xenonfree-2026-11-14.zip",
+                                      "sha256":  "78e216ee118b97d63b1b416b9f35bdcd0dd3c73d7ea2c09db18674931c3890a5"
+                                  }
+                }
+}
