@@ -1,6 +1,46 @@
 <builds>
 
 <build>
+<name>Diggz Xenon</name>
+<version>5.3</version>
+<kodi>K21</kodi>
+<url>https://diggz1.me/Builds/Xenon_v5.3_1115_830pm.zip</url>
+<icon>https://diggz1.me/Images/diggzxenonnew.png</icon>
+<fanart>https://diggz1.me/Images/diggzxenonnew.png</fanart>
+<description>Diggz Xenon. Updated 11/15/2026</description>
+</build>
+
+<build>
+<name>Diggz Xenon</name>
+<version>5.3</version>
+<kodi>K22</kodi>
+<url>https://diggz1.me/Builds/Xenon_v5.3_1115_830pm.zip</url>
+<icon>https://diggz1.me/Images/diggzxenonnew.png</icon>
+<fanart>https://diggz1.me/Images/diggzxenonnew.png</fanart>
+<description>Diggz Xenon. Updated 11/15/2026</description>
+</build>
+
+<build>
+<name>Diggz Xenon - Server 2</name>
+<version>5.3</version>
+<kodi>K21</kodi>
+<url>https://archive.org/download/xenon-v-5.3-1115-830pm/Xenon_v5.3_1115_830pm.zip</url>
+<icon>https://diggz1.me/Images/diggzxenonnew.png</icon>
+<fanart>https://diggz1.me/Images/diggzxenonnew.png</fanart>
+<description>Diggz Xenon. Updated 11/15/2026</description>
+</build>
+
+<build>
+<name>Diggz Xenon - Server 2</name>
+<version>5.3</version>
+<kodi>K22</kodi>
+<url>https://archive.org/download/xenon-v-5.3-1115-830pm/Xenon_v5.3_1115_830pm.zip</url>
+<icon>https://diggz1.me/Images/diggzxenonnew.png</icon>
+<fanart>https://diggz1.me/Images/diggzxenonnew.png</fanart>
+<description>Diggz Xenon. Updated 11/15/2026</description>
+</build>
+
+<build>
 <name>dMo - Simply Estuary</name>
 <version>1.6</version>
 <kodi>K21</kodi>
@@ -98,16 +138,6 @@
 <icon>https://diggz1.me/Images/MEC.Small.png</icon>
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
 <description>MEC - Debrid and Free. 23-August-2026</description>
-</build>
-
-<build>
-<name>Nothing to see here</name>
-<version>1</version>
-<kodi>K21</kodi>
-<url>https://diggz1.me/Builds/Xenon21_v5.2_1115_730pm.zip</url>
-<icon></icon>
-<fanart></fanart>
-<description></description>
 </build>
 
 </builds>
