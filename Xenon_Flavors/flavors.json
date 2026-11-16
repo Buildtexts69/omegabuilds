@@ -11,7 +11,7 @@
                                                        ],
                                      "version":  "2026-11-15",
                                      "url":  "https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/Xenon_Flavors/zips/redlight-2026-11-15.zip",
-                                     "sha256":  "44b0b6f6647334b66f37cbaa9e8bf19af0625e40e94c649b73ea1142a43de25b",
+                                     "sha256":  "20721661ddecb35b8ee060604493538225540117b1f835d8aa3b4a3d6074d197",
                                      "addon":  "plugin.video.redlight",
                                      "icon":  "special://home/addons/resource.images.skinicons.wide/resources/icons/fenlight.png"
                                  },
@@ -25,7 +25,7 @@
                                                          ],
                                        "version":  "2026-11-15",
                                        "url":  "https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/Xenon_Flavors/zips/tmdbhelper-2026-11-15.zip",
-                                       "sha256":  "91787773938cd95453ea87c67b1edc28a3c6c3016c5679eec733fc293f09410f",
+                                       "sha256":  "bc0c36cac6439f8de55dc98cf086044466b1f8ce8190f2589dc89fa80590bb58",
                                        "addon":  "plugin.video.themoviedb.helper",
                                        "icon":  "special://home/addons/resource.images.skinicons.wide/resources/icons/tmdbh.png"
                                    },
@@ -39,7 +39,7 @@
                                                        ],
                                      "version":  "2026-11-15",
                                      "url":  "https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/Xenon_Flavors/zips/umbrella-2026-11-15.zip",
-                                     "sha256":  "5237c4aa5bffdec4b46493766528bc83667a98e64cef2232da1f1b342a3d93d6",
+                                     "sha256":  "cf7cc80c07ce287ffa2845d097cfd78f949540d817ed4ad88ceea21d48e61811",
                                      "addon":  "plugin.video.umbrella",
                                      "icon":  "special://home/addons/resource.images.skinicons.wide/resources/umbrella.png"
                                  },
@@ -53,7 +53,7 @@
                                                         ],
                                       "version":  "2026-11-15",
                                       "url":  "https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/Xenon_Flavors/zips/xenonfree-2026-11-15.zip",
-                                      "sha256":  "331b22dc1f41ab3542ecd891350491d1c7890d859faeae8328fa6557bb5411c7",
+                                      "sha256":  "01c574e267a02726b8497c7102f0c44aae04caffe4796cf05950cfae0d4dc4de",
                                       "icon":  "special://home/addons/resource.images.skinicons.wide/resources/free.png"
                                   }
                 }
