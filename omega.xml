@@ -41,7 +41,6 @@
 <build>
 <name>MX Build</name>
 <version>1.7</version>
-<kodi>K21</kodi>
 <url>https://diggz1.me/Builds/MX.Build.v1.7.zip</url>
 <icon>https://diggz1.me/Images/MX.Build.jpg</icon>
 <fanart>https://diggz1.me/Images/MX.Build.jpg</fanart>
@@ -51,27 +50,6 @@
 <build>
 <name>MX Build -Server 2</name>
 <version>1.7</version>
-<kodi>K21</kodi>
-<url>https://archive.org/download/mx.-build.v-1.7/MX.Build.v1.7.zip</url>
-<icon>https://diggz1.me/Images/MX.Build.jpg</icon>
-<fanart>https://diggz1.me/Images/MX.Build.jpg</fanart>
-<description>MX Build - Debrid and Free. 16-June-2026</description>
-</build>
-
-<build>
-<name>MX Build</name>
-<version>1.7</version>
-<kodi>K22</kodi>
-<url>https://diggz1.me/Builds/MX.Build.v1.7.zip</url>
-<icon>https://diggz1.me/Images/MX.Build.jpg</icon>
-<fanart>https://diggz1.me/Images/MX.Build.jpg</fanart>
-<description>MX Build - Debrid and Free. 16-June-2026</description>
-</build>
-
-<build>
-<name>MX Build -Server 2</name>
-<version>1.7</version>
-<kodi>K22</kodi>
 <url>https://archive.org/download/mx.-build.v-1.7/MX.Build.v1.7.zip</url>
 <icon>https://diggz1.me/Images/MX.Build.jpg</icon>
 <fanart>https://diggz1.me/Images/MX.Build.jpg</fanart>
@@ -81,7 +59,6 @@
 <build>
 <name>cg - MEC</name>
 <version>7.3</version>
-<kodi>K21</kodi>
 <url>https://diggz1.me/Builds/cg.MEC.v7.3.zip</url>
 <icon>https://diggz1.me/Images/MEC.Small.png</icon>
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
@@ -91,27 +68,6 @@
 <build>
 <name>cg - MEC -Server 2</name>
 <version>7.3</version>
-<kodi>K21</kodi>
-<url>https://archive.org/download/cg.MEC.v7.3/cg.MEC.v7.3.zip</url>
-<icon>https://diggz1.me/Images/MEC.Small.png</icon>
-<fanart>https://diggz1.me/Images/MEC.jpg</fanart>
-<description>MEC - Debrid and Free. 23-August-2026</description>
-</build>
-
-<build>
-<name>cg - MEC</name>
-<version>7.3</version>
-<kodi>K22</kodi>
-<url>https://diggz1.me/Builds/cg.MEC.v7.3.zip</url>
-<icon>https://diggz1.me/Images/MEC.Small.png</icon>
-<fanart>https://diggz1.me/Images/MEC.jpg</fanart>
-<description>MEC - Debrid and Free. 23-August-2026</description>
-</build>
-
-<build>
-<name>cg - MEC -Server 2</name>
-<version>7.3</version>
-<kodi>K22</kodi>
 <url>https://archive.org/download/cg.MEC.v7.3/cg.MEC.v7.3.zip</url>
 <icon>https://diggz1.me/Images/MEC.Small.png</icon>
 <fanart>https://diggz1.me/Images/MEC.jpg</fanart>
