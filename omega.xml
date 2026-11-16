@@ -100,4 +100,14 @@
 <description>MEC - Debrid and Free. 23-August-2026</description>
 </build>
 
+<build>
+<name>Nothing to see here</name>
+<version>1</version>
+<kodi>K21</kodi>
+<url>https://diggz1.me/Builds/Xenon21_v5.2_1115_730pm.zip</url>
+<icon></icon>
+<fanart></fanart>
+<description></description>
+</build>
+
 </builds>
