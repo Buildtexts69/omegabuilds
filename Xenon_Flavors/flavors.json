@@ -1,0 +1,60 @@
+{
+    "schema":  1,
+    "flavors":  {
+                    "redlight":  {
+                                     "name":  "Red Light",
+                                     "mode":  "debrid",
+                                     "always_labels":  [
+                                                           "1036",
+                                                           "24001",
+                                                           "Diggz Xenon"
+                                                       ],
+                                     "version":  "2026-11-20",
+                                     "url":  "https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/Xenon_Flavors/zips/redlight-2026-11-20.zip",
+                                     "sha256":  "712c6e2dfc9b915e649c5dc6fc28bcfb9e59b51da19f200f98a2447ff07bce87",
+                                     "addon":  "plugin.video.redlight",
+                                     "icon":  "special://home/addons/resource.images.skinicons.wide/resources/icons/fenlight.png"
+                                 },
+                    "tmdbhelper":  {
+                                       "name":  "The Movie Database Helper",
+                                       "mode":  "debrid",
+                                       "always_labels":  [
+                                                             "1036",
+                                                             "24001",
+                                                             "Diggz Xenon"
+                                                         ],
+                                       "version":  "2026-11-20",
+                                       "url":  "https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/Xenon_Flavors/zips/tmdbhelper-2026-11-20.zip",
+                                       "sha256":  "5a06b854ee6c6e280f5e39f21f5b0e6d01612b95a4035e90f9ac4dc0b4f87a89",
+                                       "addon":  "plugin.video.themoviedb.helper",
+                                       "icon":  "special://home/addons/resource.images.skinicons.wide/resources/icons/tmdbh.png"
+                                   },
+                    "umbrella":  {
+                                     "name":  "Umbrella",
+                                     "mode":  "debrid",
+                                     "always_labels":  [
+                                                           "1036",
+                                                           "24001",
+                                                           "Diggz Xenon"
+                                                       ],
+                                     "version":  "2026-11-20",
+                                     "url":  "https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/Xenon_Flavors/zips/umbrella-2026-11-20.zip",
+                                     "sha256":  "1f9e93de0978b1f558426fc45a0b6e631ba3c770ad55e004e0cf16adf6f540f5",
+                                     "addon":  "plugin.video.umbrella",
+                                     "icon":  "special://home/addons/resource.images.skinicons.wide/resources/umbrella.png"
+                                 },
+                    "xenonfree":  {
+                                      "name":  "Xenon Free",
+                                      "mode":  "free",
+                                      "always_labels":  [
+                                                            "1036",
+                                                            "24001",
+                                                            "Diggz Xenon"
+                                                        ],
+                                      "version":  "2026-11-20",
+                                      "url":  "https://raw.githubusercontent.com/Buildtexts69/omegabuilds/main/Xenon_Flavors/zips/xenonfree-2026-11-20.zip",
+                                      "sha256":  "f5fd0e2e4ea0408ea21f89194045c3e0832ec08c01fec71e97744aa4be831b3d",
+                                      "icon":  "special://home/addons/resource.images.skinicons.wide/resources/free.png"
+                                  }
+                }
+}
